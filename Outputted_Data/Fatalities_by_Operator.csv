@@ -1,0 +1,2477 @@
+,Operator,Fatalities
+0,A B Aerotransport,3.0
+1,AB Aerotransport,58.0
+2,ACES Colombia,40.0
+3,ADC Airlines,97.0
+4,ADES Colombia,22.0
+5,AECA Cargo,4.0
+6,AIDA,14.0
+7,AIRES Colombia,27.0
+8,ALADA,16.0
+9,ALFA,18.0
+10,ALIANSA Colombia,8.0
+11,ANDESA,30.0
+12,ANT Air Taxi,5.0
+13,APRL,11.0
+14,AREA,69.0
+15,ARTOP Aerotopografica LDA,36.0
+16,ATESA,5.0
+17,ATI,6.0
+18,ATI Aircompany,8.0
+19,AV Air / American Eagle,12.0
+20,AVCOM,2.0
+21,AVENSA,2.0
+22,AVIANCA,941.0
+23,AVIANCA / AVIANCA,38.0
+24,AVISPA,40.0
+25,AZAL Cargo Company,7.0
+26,Aaxico Airlines,9.0
+27,Ababeel Aviaition,4.0
+28,Abakan Airlines,3.0
+29,Aca-Ancargo,44.0
+30,Ace Flying Service,2.0
+31,Acme Air,2.0
+32,Action Air Express Inc. - Air Taxi,2.0
+33,Action Airlines,8.0
+34,Adam Air,102.0
+35,Aden Airways,45.0
+36,Advance Airlines,13.0
+37,Adventure Airlines,18.0
+38,Aegler Stuart Flying Service  / Private,4.0
+39,Aer Lingus,87.0
+40,Aer Turas,2.0
+41,Aeralpi,4.0
+42,Aerevias Centrales Air Service,1.0
+43,Aerial Transit Company,3.0
+44,Aero Air,3.0
+45,Aero Asahi,10.0
+46,Aero Cargo,1.0
+47,Aero Club Libya,14.0
+48,Aero Clube de Volta Redonda,4.0
+49,Aero Condor,10.0
+50,Aero Cozumel,6.0
+51,Aero Ejecutivos,3.0
+52,Aero Eslava,4.0
+53,Aero Ferinco Charter,19.0
+54,Aero France,11.0
+55,Aero Holland,34.0
+56,Aero Jet Express,4.0
+57,Aero Lloyd,5.0
+58,Aero Mayflower Transit Co,3.0
+59,Aero National - Air Taxi,4.0
+60,Aero O-Y,27.0
+61,Aero PaLease - Air Taxi,2.0
+62,Aero Pantanal - Air Taxi,6.0
+63,Aero Peru,12.0
+64,Aero Sudpacifico,9.0
+65,Aero Taxis Equatorianos,22.0
+66,Aero Transportes,8.0
+67,Aero Transporti Italiani,114.0
+68,Aero Tropical,8.0
+69,Aero-Tropics,15.0
+70,Aerocalifornia,21.0
+71,Aerocaribbean - Charter,34.0
+72,Aerocaribe,20.0
+73,Aerochasqui,15.0
+74,Aerocom,7.0
+75,Aerocondor,5.0
+76,Aerocondor de Colombia,17.0
+77,Aerocontroctors - Charter,3.0
+78,Aerocord,9.0
+79,Aerocosta Colombia,2.0
+80,Aeroejecutivos Colombia,2.0
+81,Aeroespresso,2.0
+82,Aeroextra,3.0
+83,Aeroflite Services,2.0
+84,Aeroflot,7156.0
+85,Aeroflot / Aeroflot,279.0
+86,Aeroflot / Military - Russian Air Force,31.0
+87,Aeroflot / Soviet Air Force,76.0
+88,Aeroflot /Military - Russian,33.0
+89,Aeroflot Russian International Airways,75.0
+90,Aerogulf,7.0
+91,Aerolatino (Aerocaribe),1.0
+92,Aeroleasing - Air Taxi,5.0
+93,Aeroleo Taxi Aereo,11.0
+94,Aerolift,16.0
+95,Aerolift Philippines,21.0
+96,Aerolineas Abaroa,21.0
+97,Aerolineas Argentinas,341.0
+98,Aerolineas Argo,5.0
+99,Aerolineas Centrales de Colombia,45.0
+100,Aerolineas Condor,44.0
+101,Aerolineas Cuahonte,9.0
+102,Aerolineas El Salvador,2.0
+103,Aerolineas Flecha Austral,8.0
+104,Aerolineas La Gaviola,9.0
+105,Aerolineas La Paz,5.0
+106,Aerolineas Litoral Argentina,28.0
+107,Aerolineas Nacionales,60.0
+108,Aerolineas TAO,94.0
+109,Aeromexico,75.0
+110,Aeromexico / Private,67.0
+111,Aeromist-Kharkiv,44.0
+112,Aeronautical Services - Air Taxi,3.0
+113,Aeronaves de Mexico,76.0
+114,Aeronaves de Panama,6.0
+115,Aeronaves del Peru,3.0
+116,Aeronica,31.0
+117,Aeronor Chile,46.0
+118,Aeronorte,9.0
+119,Aeronorte Colombia,6.0
+120,Aeropeca,18.0
+121,Aeroperlas,30.0
+122,Aeroperu,76.0
+123,Aeropesca Colombia,79.0
+124,Aeropol,3.0
+125,Aeropostale,52.0
+126,Aeropostale - La Tecoere Company,6.0
+127,Aeroput,8.0
+128,Aeroservice International,2.0
+129,Aeroservice S de RL,6.0
+130,Aeroservicios Empresariales de Durango,16.0
+131,Aerosucre Colombia,16.0
+132,Aerosweet Airlines (LVOV),70.0
+133,Aerotaca,13.0
+134,Aerotaxi Manaus,24.0
+135,Aerotechnia,7.0
+136,Aerotransportes Petroleros,3.0
+137,Aerotuy airline,1.0
+138,Aerovalles,6.0
+139,Aerovanguardia,3.0
+140,Aerovias Brasil,60.0
+141,Aerovias Condor,2.0
+142,Aerovias Contreras,23.0
+143,Aerovias Cuba International,12.0
+144,Aerovias Guest,25.0
+145,Aerovias Halcon,1.0
+146,Aerovias Rojas,18.0
+147,Aerovias Urraca,22.0
+148,Aerovias Venezolanas SA (Venezuela),77.0
+149,Aerovias de Guatemala SA,100.0
+150,Aerovias del Norte,10.0
+151,Aerovias del Valle,10.0
+152,Africa One Congo,21.0
+153,African Air,2.0
+154,African Commuter Services,3.0
+155,Agape Flight Inc.,2.0
+156,Agco Corp,5.0
+157,Agee Flying Service - Air Taxi,4.0
+158,Agencia Interamericana de Aviada,20.0
+159,Aigle Azur,110.0
+160,Air  Mali,47.0
+161,Air 70,10.0
+162,Air Affaires Gabon,12.0
+163,Air Afrique,56.0
+164,Air Albatross,8.0
+165,Air Algerie,187.0
+166,Air Ambulance - Med-Trans Corp.,4.0
+167,Air Amercia,5.0
+168,Air America,116.0
+169,Air Angles Inc.,4.0
+170,Air Anguilla,11.0
+171,Air Atlas,9.0
+172,Air Bissau,3.0
+173,Air Bleu,1.0
+174,Air Cameroon,4.0
+175,Air Canada,138.0
+176,Air Caraibes,19.0
+177,Air Cargo Carriers,3.0
+178,Air Cargo Express,2.0
+179,Air Carriers,12.0
+180,Air Carriers Express Services Inc,17.0
+181,Air Central,5.0
+182,Air Chaparral - Air Taxi,2.0
+183,Air Charter,14.0
+184,Air Charter - Tanzanian Air Services,3.0
+185,Air China,128.0
+186,Air Comores,15.0
+187,Air Congo,23.0
+188,Air Continental,3.0
+189,Air East,12.0
+190,Air Express,6.0
+191,Air Ferry,2.0
+192,Air Ferry Ltd,88.0
+193,Air Fiji,17.0
+194,Air Fiordland,11.0
+195,Air Flamence,1.0
+196,Air Florida,74.0
+197,Air France,1734.0
+198,Air Freight New Zealand,5.0
+199,Air Gabon,3.0
+200,Air Gaspé,4.0
+201,Air Georgian,1.0
+202,Air Global,2.0
+203,Air Guadeloupe,28.0
+204,Air Guinee,15.0
+205,Air Haiti International,3.0
+206,Air Hawaii,5.0
+207,Air Illinois,10.0
+208,Air India,827.0
+209,Air Inter,167.0
+210,Air Iowa,6.0
+211,Air Ivoire,6.0
+212,Air Ivorie,17.0
+213,Air Jordan,10.0
+214,Air Karibu,7.0
+215,Air Kasai,14.0
+216,Air Lanka,22.0
+217,Air Laos,43.0
+218,Air Liberia,8.0
+219,Air Littoral,21.0
+220,Air Logistics,18.0
+221,Air Luxor,7.0
+222,Air Madagascar,67.0
+223,Air Malawi,10.0
+224,Air Mali,57.0
+225,Air Manila,61.0
+226,Air Manitoba,9.0
+227,Air Martinique,6.0
+228,Air Mauritanie,80.0
+229,Air Melanesie,1.0
+230,Air Memphis,6.0
+231,Air Methods / ClassiHelicopters,6.0
+232,Air Moorea,20.0
+233,Air Nautic,65.0
+234,Air New England,1.0
+235,Air New Zealand,261.0
+236,Air Niagara,2.0
+237,Air North,1.0
+238,Air North Queensland,11.0
+239,Air Ocean,16.0
+240,Air Ohio - Air Taxi,2.0
+241,Air One Executive,2.0
+242,Air Ontario,24.0
+243,Air Orient,17.0
+244,Air Outre-Mer,3.0
+245,Air Outremer,18.0
+246,Air Pennsylvania - Air Taxi,3.0
+247,Air Pereira,4.0
+248,Air Philippines,131.0
+249,Air Rainbow,7.0
+250,Air Reconnaissance Unit of Liberia,16.0
+251,Air Rhodesia,97.0
+252,Air Rouergue,5.0
+253,Air Saint Maurice Inc.,3.0
+254,Air Satellite,7.0
+255,Air Senegal,25.0
+256,Air Senegal / Gambia Airways,3.0
+257,Air Serv Internatiional/CemAir,17.0
+258,Air Service - Air Taxi,3.0
+259,Air Services,3.0
+260,Air Sinai,37.0
+261,Air South,14.0
+262,Air St. Martin,20.0
+263,Air Sunshine,2.0
+264,Air São Tomé,4.0
+265,Air Tahiti,11.0
+266,Air Tahoma,3.0
+267,Air Taroma,1.0
+268,Air Taxi,161.0
+269,Air Taxi - Aero West Aviation Inc.,5.0
+270,Air Taxi - Air Grand Canyon Inc.,7.0
+271,Air Taxi - Air Medical Leasing,4.0
+272,Air Taxi - Air Taxi Inc.,5.0
+273,Air Taxi - Air Trends Inc.,4.0
+274,Air Taxi - Air Vegas Inc.,2.0
+275,Air Taxi - Airis Helicopters Inc.,3.0
+276,Air Taxi - Alpine Aviation,3.0
+277,Air Taxi - Baker Aviation Inc.,3.0
+278,Air Taxi - Basco Flying Service Inc.,7.0
+279,"Air Taxi - Bigfoot Air of Alaska, LLC",4.0
+280,Air Taxi - Bohemia Inc.,3.0
+281,Air Taxi - Centre Airlines Inc.,2.0
+282,Air Taxi - Coastal Airways Inc.,3.0
+283,Air Taxi - Coastal Helicopters Inc.,7.0
+284,Air Taxi - Continental Air Taxi,3.0
+285,Air Taxi - Custom Air Transport Inc.,2.0
+286,Air Taxi - Delaware Aviation LLC,4.0
+287,Air Taxi - Desert Flying Service,3.0
+288,Air Taxi - Durango Air Service,3.0
+289,Air Taxi - Eidoarie Inc.,4.0
+290,Air Taxi - El Aero Services Inc.,5.0
+291,Air Taxi - Flying School of the Cascades Inc.,4.0
+292,Air Taxi - Four Corners Aviation Inc.,2.0
+293,Air Taxi - Grant Aviation Inc.,6.0
+294,Air Taxi - Great Northern Aircraft Co.,3.0
+295,Air Taxi - Guinn Flying Service,4.0
+296,Air Taxi - Haines Airways Inc.,6.0
+297,Air Taxi - Hawaii Helicopters Inc.,7.0
+298,Air Taxi - Henson Airlines,14.0
+299,"Air Taxi - Iliamna, Air Taxi Inc.",6.0
+300,Air Taxi - Island Air Service,4.0
+301,Air Taxi - Island Airlines,4.0
+302,Air Taxi - Islip Airco Inc.,2.0
+303,Air Taxi - Jet Alaska,3.0
+304,Air Taxi - Lab Flying Service Inc.,6.0
+305,Air Taxi - Lake Clark Air Inc.,3.0
+306,Air Taxi - Las Vegas Flyers Inc.,10.0
+307,Air Taxi - MajestiAlliance,2.0
+308,Air Taxi - Marco Zero Air Taxi,5.0
+309,Air Taxi - Martin Aviation LP,5.0
+310,Air Taxi - Mercy Flights Inc.,4.0
+311,Air Taxi - Minuteman Aviation Inc.,3.0
+312,Air Taxi - Monument Valley Air Service,6.0
+313,Air Taxi - National Helicopters,3.0
+314,Air Taxi - New England Airlines,3.0
+315,Air Taxi - New London Flying Services Inc.,2.0
+316,Air Taxi - Northern Air Services Inc.,2.0
+317,Air Taxi - Northern Arizona Aircraft Inc.,5.0
+318,Air Taxi - Ohana Helicopter Tours,6.0
+319,Air Taxi - Oklahoma Airways Inc.,2.0
+320,Air Taxi - Ozark Skyways Inc.,4.0
+321,Air Taxi - Papillion Helicopters Ltd.,3.0
+322,Air Taxi - Paramount Aviation Corp.,5.0
+323,Air Taxi - Peninsula Airways,3.0
+324,Air Taxi - Petroleum Helicopters Inc.,15.0
+325,Air Taxi - Raco Helicopters Corp.,3.0
+326,Air Taxi - Richards Aviation Inc.,2.0
+327,Air Taxi - Richmor Aviation,3.0
+328,Air Taxi - Ryan Air Service,5.0
+329,Air Taxi - Sea PacifiInc.,3.0
+330,Air Taxi - Seaside Air Service,3.0
+331,Air Taxi - South Coast Helicopters Inc.,4.0
+332,Air Taxi - Stanley Air Taxi,4.0
+333,Air Taxi - Stearns Air Alaska,3.0
+334,Air Taxi - Sun Western Flyers Inc.,9.0
+335,Air Taxi - TAJ FBO Co.,4.0
+336,Air Taxi - Talon Air Services Inc.,3.0
+337,Air Taxi - Temesco Helicopters Inc.,3.0
+338,Air Taxi - Trail Lake Flying Service Inc.,5.0
+339,Air Taxi - Transamerica,2.0
+340,Air Taxi - Tyee Airlines Inc.,8.0
+341,Air Taxi - US Helicopters Inc.,5.0
+342,Air Taxi - Uyak Air Services Inc.,6.0
+343,Air Taxi - Western Helicopter Inc.,4.0
+344,Air Taxi - Wilderness Aviation Inc.,3.0
+345,Air Taxi - Wolfe Air Aviation Ltd.,2.0
+346,Air Taxi -Wilderness Aviation Inc.,5.0
+347,Air Taxi- Hermans Air Inc.,2.0
+348,Air Transit - Air Taxi,3.0
+349,Air Transport,33.0
+350,Air Transport Associates,2.0
+351,Air Transport Charter,3.0
+352,Air Trek,6.0
+353,Air Turks & Caicos,1.0
+354,Air US / Private,15.0
+355,Air Union,17.0
+356,Air Vietnam (South Vietnam),434.0
+357,Air West,7.0
+358,Air West Airlines Ltd.,1.0
+359,Air Wisconsin,13.0
+360,Air ambulance - Mercy Air Services,3.0
+361,Air taxi,21.0
+362,Air taxi - Aero Air Taxi,4.0
+363,Air taxi - Air Safaris Inc.,3.0
+364,Air taxi - Cuiaba Air Taxi,6.0
+365,Air taxi - Jao Air Taxi,4.0
+366,Air taxi - Lider Air Taxi,6.0
+367,Air taxi - Rumo Notre Air Taxi,4.0
+368,Air taxi - TAM,2.0
+369,Air-Lift Commuter,2.0
+370,AirNow,2.0
+371,AirWest Airlines,11.0
+372,Airborne Express,8.0
+373,Airborne Transport,32.0
+374,Airbus Industrie,7.0
+375,Airco Charters - Air Taxi,2.0
+376,Aircraft Charter Group Inc,2.0
+377,Aircraft Transport and Travel,1.0
+378,Airfast Indonesia,17.0
+379,Airfast Services,37.0
+380,Airline Transport,1.0
+381,Airline Transport Carriers,32.0
+382,Airlines of Australia,5.0
+383,Airlines of PNG,2.0
+384,Airlink,28.0
+385,Airquarius Aviation - Charter,3.0
+386,Airtech Rajawaldi Udara,14.0
+387,Airwave Transport,2.0
+388,Airways,3.0
+389,Airwork,9.0
+390,Aitalia,13.0
+391,Akhal Air,12.0
+392,Aktiebolaget Aerotransport,7.0
+393,Ala Littoria,48.0
+394,Alada,1.0
+395,Alamo Airways,3.0
+396,Alantis Aviation,12.0
+397,Alas Chiricanas,21.0
+398,"Alas Nacionales, leased from Birgen Air",189.0
+399,Alas del Sur,3.0
+400,Alaska Aeronautical Industries,13.0
+401,Alaska Airlines,231.0
+402,Alaska Coastal Airlines,9.0
+403,Alaska Helicopter - Air Taxi,5.0
+404,Alaska International Air,4.0
+405,Alaska Travel,6.0
+406,Alaska-Washington Airways,3.0
+407,Albancion Circulo,10.0
+408,Alia Royal Jordanian Airlines,463.0
+409,Alii Air Hawaii - Air Taxi,8.0
+410,Alitalia,458.0
+411,All Nippon Airways,224.0
+412,All Nippon Airways /  Japanese Air Force,163.0
+413,Allegheny Airlines,87.0
+414,Allegheny Airlines / Forth Corporation,83.0
+415,Alliance Airlines,6.0
+416,Allied Air Freight,2.0
+417,Aloha Airlines,1.0
+418,Aloha Island Air,20.0
+419,Alpa Servicios Aéreos,4.0
+420,Alpena Flying Service - Air Taxi,6.0
+421,Alpha Airways,4.0
+422,Alpine Air Express,2.0
+423,Alpine Aviation ,1.0
+424,AltusFlying Service - Air Taxi,2.0
+425,Alva Aircraft Service - Taxi,3.0
+426,Alyemda,67.0
+427,Alyemda Airlines,3.0
+428,Amazonese Importacao e Exportacao,9.0
+429,Ambler Air Service,7.0
+430,Amee de l'Air,3.0
+431,American Air  Export & Import Co.,1.0
+432,American Airlines,1421.0
+433,American Airlines / Military - USAF,12.0
+434,American Airlines / Private,2.0
+435,American Airways,34.0
+436,American Eagle,90.0
+437,American Export Airlines,11.0
+438,American Express Leasing,5.0
+439,American Flyers Airline,83.0
+440,American International Airways,0.0
+441,American Jet,7.0
+442,American Overseas Airlines,39.0
+443,American Virginia,1.0
+444,Ameriflight,5.0
+445,Ameristar Jet Charter,5.0
+446,Amphibians,5.0
+447,Anchorage Helicopter - Air Taxi,3.0
+448,Angola Air Charter,6.0
+449,Ansett ANA,69.0
+450,Ansett Airlines of Papua New Guinea,4.0
+451,Ansett New Zealand,5.0
+452,Antilles Air,7.0
+453,Antillian Airlines,23.0
+454,Antillies Air - Air Taxi,4.0
+455,Apache Airlines - Air Taxi,12.0
+456,Apline Aviation,1.0
+457,Aquilla Airways,43.0
+458,Arall,4.0
+459,Aramar,8.0
+460,Aramco Associated Company,12.0
+461,Ararat Avia,0.0
+462,Arax Airlines,4.0
+463,Aray-Avia,1.0
+464,Archana Airlines,9.0
+465,ArctiCircle Air Service,1.0
+466,ArctiPacific,22.0
+467,ArctiTransportation Services,1.0
+468,ArctiWings & Rotors,7.0
+469,Argentina CAA,11.0
+470,Ariana Afghan Airlines,254.0
+471,Armavia,113.0
+472,Aroostook Air - Air Taxi,3.0
+473,Arrow Airlines,9.0
+474,Arrow Airways,256.0
+475,Arsenyev Aviation Production Association,8.0
+476,Asa Pesada,57.0
+477,Asian Spirit,17.0
+478,Asiana Airlines,68.0
+479,Aspring Air,10.0
+480,Associated Air Transport,40.0
+481,Associated Airways,3.0
+482,Associated Aviators,1.0
+483,Astrd Wing Aviaiton - Air Taxi,2.0
+484,Astro Air Taxi,4.0
+485,AtlantiAirlines,9.0
+486,AtlantiAirways,4.0
+487,AtlantiCentral Airlines,4.0
+488,AtlantiCity Airlines,3.0
+489,AtlantiCoast Airlines (United Express),5.0
+490,AtlantiSoutheast Airlines,38.0
+491,Atlasjet Airlines,57.0
+492,Atran,9.0
+493,Augusta Aviaiton - Air Taxi,2.0
+494,Aurukun Air Services,6.0
+495,Austin Airways,19.0
+496,Austral Lineas Aeras (Argentina),224.0
+497,Australian Aerial Services,2.0
+498,Australian National Airways,78.0
+499,Austria-Flugdienst,5.0
+500,Austrian Airlines,31.0
+501,Autrex,12.0
+502,Avalki Air,6.0
+503,Avanti Aviation -Air Taxi,2.0
+504,Avensa,93.0
+505,Avesca Colombia,11.0
+506,Avia Air Aruba,8.0
+507,Avia-Taxi,10.0
+508,Aviaco,200.0
+509,Aviaimpex (Macedonia),116.0
+510,Avianca,4.0
+511,Aviastar Mandiri,6.0
+512,Aviateca,145.0
+513,Aviation Charter - Air Taxi,12.0
+514,Aviation Development Corporation,143.0
+515,Aviation Enterprises,3.0
+516,Avicsa,20.0
+517,Avio Linee Italiane,46.0
+518,Aviogenex (Yugoslavia),78.0
+519,Avion Airways,16.0
+520,Avionas  Banamex,8.0
+521,Avioriprese Jet Executive,3.0
+522,Avirex,3.0
+523,Avisto,22.0
+524,Avtex Air Services,1.0
+525,Azerbaijan Airlines,31.0
+526,Azerbaijani Airlines,74.0
+527,Azov Avia Airlines,3.0
+528,Aéreo Ruta Maya,11.0
+529,Aérotaxi Cachanilla,8.0
+530,BAFIN,4.0
+531,BAL Bremerhaven Airline,8.0
+532,BHS - Brazilian Helicopter Service  Air Taxi,6.0
+533,BHS - Brazilian Helicopter Service Air Taxi,5.0
+534,BHS - Brazilian Helicopter Services,5.0
+535,BKS Air Transport,6.0
+536,BOAC,25.0
+537,Bahri Aviation,5.0
+538,Baikal Air,124.0
+539,Baker Aero Inc. - Taxi,2.0
+540,Bakhtar Afghan Airlines,76.0
+541,Bako Air,7.0
+542,Balair,12.0
+543,Bali International Air Service,55.0
+544,Balkan Bulgarian Airlines,346.0
+545,Bangkok Airways,38.0
+546,Bangladesh Biman,49.0
+547,Bankair,3.0
+548,Bankair Inc. - Air Taxi,5.0
+549,Bar Harbor Airlines,8.0
+550,Baron Aviation,2.0
+551,Barrow Air Service - Air Taxi,7.0
+552,Bashkirian Airlines / DHL Worldwide Express,71.0
+553,Bassett Complany - Taxi,6.0
+554,Bavaria Flug,11.0
+555,Bay Land Aviation,5.0
+556,Bazair,27.0
+557,Bearskin Airlines / Air Sandy,8.0
+558,Beatty Flying Service - Taxi,2.0
+559,Belair - Air Taxi,5.0
+560,Belgian International Air Services,4.0
+561,Belize Air International Ltd.,5.0
+562,Bellview Airlines,117.0
+563,Berkshire Aviation - Air Taxi,2.0
+564,Bharat Airways,7.0
+565,Big Island Airlines,11.0
+566,Bimini Air Charter Inc.,5.0
+567,Bimini Airways,5.0
+568,Binter Mediterráneo,4.0
+569,Blackhawk Int. Airways  - Private charter,9.0
+570,Blue Bird Air Service,4.0
+571,Blue Bird Aviation,2.0
+572,Blue Hawaiian Helicopters,7.0
+573,Blue Water Aviation Services,1.0
+574,Blue Wing Airlines,19.0
+575,Boeing Air Transport,6.0
+576,Boeing Aircraft Company,18.0
+577,Boeing KC-135E,2.0
+578,Boise Air Service,6.0
+579,Bombardier Aerospace,2.0
+580,Bonanza Airlines,29.0
+581,Bond Offshore Helicopters,16.0
+582,Borneo Airways,10.0
+583,Bourag Indonesia Airlines,10.0
+584,Bouraq Indonesia Airlines,54.0
+585,Braathens,42.0
+586,Bradley Air Services,13.0
+587,Braniff Airlines,216.0
+588,Braniff Airways,8.0
+589,Bremerton-Seattle Air Taxi / Gorst Air Lines,2.0
+590,Bristol 170 Freighter 31M,2.0
+591,Bristol Aeroplane Co.,15.0
+592,Bristow Helicopters,24.0
+593,Brit Air,1.0
+594,Britannia Airways,98.0
+595,Britavia,5.0
+596,British Aircraft Corporation,7.0
+597,British Airtours,55.0
+598,British Airways,13.0
+599,British Airways Helicopters,20.0
+600,British Columbia Airways,7.0
+601,British Commonwealth PacifiAirlines,19.0
+602,British Eagle International Airlines,131.0
+603,British European Airways,512.0
+604,British European Airways / Military - British,14.0
+605,British European Airways / Military - Soviet Air Force,15.0
+606,British International Helicopters,45.0
+607,British Midland Airways,119.0
+608,British Overseas Airways,506.0
+609,British Overseas Airways /Qantas,10.0
+610,British South American Airways,95.0
+611,British United Airways,26.0
+612,British World Airways,1.0
+613,Britt Airways,3.0
+614,Broughton Air Servces,10.0
+615,Broward Aviation Services - Air Taxi,5.0
+616,Bruning Aviation,2.0
+617,Bruno Air,9.0
+618,Bruns Air Service - Air Taxi,4.0
+619,Buckeye Air Service - Air Taxi,2.0
+620,Buffalo Narrows Airways,2.0
+621,Bulair TABSO,47.0
+622,Burke Air Transport,14.0
+623,Burlington Air - Air Taxi,2.0
+624,Burlington Air Express,4.0
+625,Burma Airways,250.0
+626,Business Air Connection,4.0
+627,Business Aircraft - Air Taxi,3.0
+628,Business Jet Services,3.0
+629,Butler Aviation Inc.,12.0
+630,By Air,1.0
+631,C and C Aviaiton - Air Taxi,5.0
+632,CAAC,251.0
+633,CAAC Air TraffiManagement Bureau,3.0
+634,CAAK,23.0
+635,CAMBA,10.0
+636,CATA,4.0
+637,CATA Linea Aerea,5.0
+638,CC Air,2.0
+639,CCCP,2.0
+640,CIDNA,17.0
+641,COHATA,30.0
+642,COPA (Panama),47.0
+643,CORAL Colombia,14.0
+644,CSA Czech Airlines,16.0
+645,CTA LanguedoRoussillon,23.0
+646,Cable Commuter,9.0
+647,Cabo Verde Airlines,1.0
+648,Calair,2.0
+649,Caledonian Airways,111.0
+650,California Air Charter,1.0
+651,California Air Freight,2.0
+652,California Air National Guard,2.0
+653,California Aircraft,3.0
+654,Cambodia Air,39.0
+655,Cameroon Airlines,78.0
+656,Campagnie France Roumaine,2.0
+657,Canada Jet Charters,5.0
+658,Canadian Air Transat,0.0
+659,Canadian Colonial Airways,4.0
+660,Canadian PacifiAir Lines,234.0
+661,Canair Cargo,2.0
+662,Canair Corp. - Air Taxi,4.0
+663,Canairelief Air,4.0
+664,Cape Smythe Air Service,5.0
+665,Capital Airlines,187.0
+666,Capital Airlines / Military - Air National Guard,11.0
+667,Capital Airlines Inc.,2.0
+668,Capital Taxi Aereo,3.0
+669,Capitol Air Service - Air Taxi,4.0
+670,Capitol Airways,4.0
+671,Care Flight International,1.0
+672,Carga Aereo Transportada,4.0
+673,Carga del Caribe,3.0
+674,Cargo Three Panama,2.0
+675,Cargolux,4.0
+676,Carib Air Transport,7.0
+677,Caribbean Air Carrier - Air Taxi,4.0
+678,Caribbean Airlines,5.0
+679,Caribbean International Airways,13.0
+680,Carvair ATL-98,1.0
+681,Cascade Airways,9.0
+682,Casino Air - Air Taxi,2.0
+683,Castle Aviation,2.0
+684,Catalina - Vega - Air Taxi,4.0
+685,Catalina Airlines,1.0
+686,Cathay PacifiAirways,140.0
+687,Cebu PacifiAir,104.0
+688,Central  Airlines,5.0
+689,Central African Airways,50.0
+690,Central Air Services,2.0
+691,Central Air Transport,22.0
+692,Central Airlines,2.0
+693,Central Mountain Air Services,22.0
+694,Centurian Air Cargo,0.0
+695,Century Air Lines,2.0
+696,Century PacifiLines,8.0
+697,Ceskoslovenske Aerolinie,516.0
+698,Ceskoslovenské Aerolinie,9.0
+699,Cessnyca,14.0
+700,Chaillotine Air Service,6.0
+701,Chalk's International Airlines,2.0
+702,Chalk's Ocean Airways,20.0
+703,Chamberlin Flying Service,1.0
+704,Channel Air Lift,3.0
+705,Channel Express,2.0
+706,Channel Flying Service - Air Taxi,7.0
+707,Chartair - Air Taxi,10.0
+708,Charter,1.0
+709,Charter - Aerotaxi,17.0
+710,Charter - Air Adventures New Zealand Ltd,8.0
+711,Charter - Air Cush,6.0
+712,Charter - Central Air,8.0
+713,Charter - Flightline Charter Services,9.0
+714,Charter - IRS Aero,27.0
+715,Charter - Maniema Union (owner Victoria Air),27.0
+716,Charter - Private,2.0
+717,Charter - Twin Air HB,8.0
+718,Charter -Federal Electricity Commission,19.0
+719,"Charter, Golden Eagle Aviation Inc.",30.0
+720,Chelan Air Service,2.0
+721,Cheremshanka Airlines,28.0
+722,Chester Airport,3.0
+723,Chicago Helicopter Airways,13.0
+724,Chicago Southern Airlines,24.0
+725,Chicago and Southern Airlines,2.0
+726,Chicago-Detroit Airways,1.0
+727,China Air Lines,24.0
+728,China Airlines (Taiwan),847.0
+729,China Eastern Airlines,91.0
+730,China Flying Dragon Aviation (Feilong Airlines),2.0
+731,China General Aviation Corporation,108.0
+732,China National Aviation Corporation,409.0
+733,China Northern Airlines,124.0
+734,China Northwest Airlines,215.0
+735,China Southern Airlines,176.0
+736,China Southwest Airlines,169.0
+737,China Southwest Airlines / Xiamen Airlines,128.0
+738,Chugiak Aviation - Air Taxi,2.0
+739,Churchill Falls Co.,8.0
+740,Cia Brasiliera de Tratores,10.0
+741,Cie Air Transport,26.0
+742,Cie des Messageries Aeriennes,3.0
+743,Circuit City Stores - Charter,8.0
+744,City-Jet,6.0
+745,Civil Air Transport,152.0
+746,Clarkes Thunder - Air Taxi,2.0
+747,ClassiWings,27.0
+748,Coastal Air Lines,18.0
+749,Coastal Cargo,2.0
+750,College of the Ozarks,6.0
+751,Colonial Air Transport,9.0
+752,Colonial Western Airlines,17.0
+753,Columbia Air Cargo,13.0
+754,Columbia PacifiAirlines,17.0
+755,Comair,86.0
+756,Commercial Air Taxi,33.0
+757,Commercial Airways,12.0
+758,Commercial Airways (Comair),17.0
+759,Commutair,2.0
+760,Commuter Airline - Air Taxi,3.0
+761,Compagnie Air Transport,4.0
+762,Compagnie Internationale de Navigation Aérienne,7.0
+763,Compagnie Sila,2.0
+764,Compania Dominicana de Aviacion,102.0
+765,Compania Mexicana de Aviacion,79.0
+766,Compania de Aviacion Faucett SA (Peru),123.0
+767,Compania de Mexico,14.0
+768,ComvaAviation,4.0
+769,Condor Flugdienst,16.0
+770,Conesul Taxi Aéreo,7.0
+771,Congo Airline,41.0
+772,Connair,11.0
+773,Connie Kalitta Services,3.0
+774,Conquest Airways - Air Taxi,3.0
+775,Continental Air Lines,5.0
+776,Continental Air Services,2.0
+777,Continental Air Transport,3.0
+778,Continental Airlines,83.0
+779,Continental Charters,26.0
+780,Continental Connection/Colgan Air,49.0
+781,Continental Express,14.0
+782,Continentale Deutsche Luftreederei,1.0
+783,Conviasa,3.0
+784,Cooper Skybird Air Charters,14.0
+785,Copterline,14.0
+786,Cordova Airlines,10.0
+787,Corp. Aeronautica de Transportes,4.0
+788,Corporacion Boliviano de Fomento,6.0
+789,Corporate Air,1.0
+790,Corporate Air - Air Taxi,3.0
+791,Corporate Airlines (American Connection),13.0
+792,Corporate Mobility Inc. - Private,3.0
+793,Costal Airway,8.0
+794,Cougar Helicopters,17.0
+795,Coval Air,9.0
+796,Crasa - Air Taxi,6.0
+797,Crest Airlines - Air Taxi,2.0
+798,Cross Airways,5.0
+799,Crossair,34.0
+800,Cruzeiro,213.0
+801,Cruzeiro Do Sud,26.0
+802,Cruzeiro do Sul,11.0
+803,Cubana de Aviacion,486.0
+804,Cubana de Aviacion / Military -  US Navy,43.0
+805,Cubana de Aviacon,17.0
+806,Cunard Eagle Airways,39.0
+807,Currey Air Transport,3.0
+808,Curtiss-Reid Flying Services Ltd. (Canada),52.0
+809,Custom Air Service,2.0
+810,DHL,2.0
+811,DHL Aviation Africa,4.0
+812,DJB Air Charter,1.0
+813,DLL,2.0
+814,DNL,13.0
+815,DTA Angola Airlines,31.0
+816,Dai Nippon,6.0
+817,Daimler Airways,6.0
+818,Daimler Airways / Grands Express Aeriens,7.0
+819,Dalmia Jain Airways,13.0
+820,Dan Air Services,278.0
+821,Dan-Air Services,4.0
+822,Darbhanga Aviation,5.0
+823,Deccan Airways,31.0
+824,Del Rio Flying Service - Air Taxi,7.0
+825,Delaware Aviation - Air Taxi,2.0
+826,Delta Air Lines,299.0
+827,Delta Air Lines/ North Central Airlines,10.0
+828,Deming Flying Service - Air Taxi,2.0
+829,Den Norske Luftfartskole,7.0
+830,Denver Air Center,7.0
+831,Deraps Aviation,3.0
+832,Deraya Air Taxi,1.0
+833,Derby Aviation,34.0
+834,Deruluft,23.0
+835,Det Danske Luftfartselskab,12.0
+836,Deutche Lufthansa,1.0
+837,Deutsche Flugdienst,1.0
+838,Deutsche Lufthansa,396.0
+839,Deutsche Zeppelin Reederei,35.0
+840,Devener Flying Service - Taxi,3.0
+841,Devlet Hava Yollairi,15.0
+842,Devlet Hava Yollari,39.0
+843,Dirgantara Air Service,3.0
+844,Dirgantara Air Services,46.0
+845,Djibouti Airlines,5.0
+846,Dodita Air Cargo,1.0
+847,Dominicana,31.0
+848,Dominion Air Lines,1.0
+849,Don Everall Aviation,3.0
+850,Don Zimmerman - Air Taxi,4.0
+851,Douglas Aircraft,5.0
+852,Douglas Aircraft Company,5.0
+853,Douglas Airways,26.0
+854,Downeast Airlines,20.0
+855,Duncan Aircraft Sales,10.0
+856,Dunlap Aviation - Air Taxi,2.0
+857,Dutch Continental Airways,3.0
+858,Dutch Dakota Association,32.0
+859,Dwyer Flying Service - Private Charter,4.0
+860,E.A.S. Aeroservizi,3.0
+861,EAS Airlines (Executive Airline Services),74.0
+862,EDELCA,12.0
+863,ELK Aviation Co. (leased from Eminex),2.0
+864,ERA Aviation - Air Taxi,3.0
+865,ERA Helicopter,2.0
+866,ETA - Empresa Transportes Aéreos,9.0
+867,EXA Inc.,12.0
+868,Eagle Air,10.0
+869,Eagle Airways,2.0
+870,Eagle Aviation,40.0
+871,Eagle Cap Leasing,14.0
+872,Eagle Commuter,7.0
+873,Eagle Flight - Air Taxi,4.0
+874,East African Air Charters,4.0
+875,East African Airways,63.0
+876,East Anglian Flying Services,12.0
+877,East Coast Air - Air Taxi,3.0
+878,East Coast Jets,8.0
+879,East Indonesia Air Taxi,13.0
+880,East Provincial Airways,15.0
+881,Eastern Air Lines,710.0
+882,Eastern Air Lines / Military - Bolivian Air Force,55.0
+883,Eastern Air Lines / Military - U.S. Army Air Corps,3.0
+884,Eastern Air Lines / Military - USN,16.0
+885,Eastern Air Transport,3.0
+886,Eastern Provincial Airways,9.0
+887,Ecuatair,60.0
+888,Ecuato Guineana de Aviacion,6.0
+889,Edde Airlines,13.0
+890,Edinburgh Air Charter,8.0
+891,EgyptAir,406.0
+892,Eitos,13.0
+893,Ejercito del Aire,16.0
+894,El Al,69.0
+895,El Magal Aviation,7.0
+896,Elbee Airlines,2.0
+897,Embry Riddle Company,1.0
+898,Emery Worldwide,5.0
+899,Emirates Air Transport,4.0
+900,Empire Airlines,2.0
+901,Empresa Aviacion del Pacifico,36.0
+902,Empresa Nacional de Transp.  Trabalho Aereo,5.0
+903,Empressa Commun. Aéreas de Veracruz,15.0
+904,Enimex,2.0
+905,Era Helicopter - Air Taxi,2.0
+906,Ethiopian Airlines,223.0
+907,Eurasia,4.0
+908,Eureka Aero Inc. - Air Taxi,3.0
+909,Euro Asia Aviation,6.0
+910,Euroair,1.0
+911,Eurojet Italila,2.0
+912,Europe Aero Service EAS,22.0
+913,Everest Air,19.0
+914,"Evergreen Alaska Helicopters, Inc.",4.0
+915,Evergreen Helicopter - Air Taxi,7.0
+916,Evergreen International Airlines,2.0
+917,Evolga,3.0
+918,Executive Air - Air Taxi,10.0
+919,Executive Airlines,19.0
+920,Executive Funds,1.0
+921,Executive Jet Sales Inc.,6.0
+922,Exportada De Sal S.A.,12.0
+923,Express Airlines - Northwest Airlink,18.0
+924,Expresso Aéreo,32.0
+925,F.R. de la Direccion General de Ados,20.0
+926,FAMA (Argentina),21.0
+927,Fairbanks Air - Air Taxi,2.0
+928,Fairbanks Air Service - Taxi,2.0
+929,Fairflight Ltd.,80.0
+930,Fairways,10.0
+931,Falcon Airways - Air Taxi,2.0
+932,Falcon Aviation Group,7.0
+933,Far Aviation - Air Taxi / Speeds Flying - Air Taxi,2.0
+934,Far East Aviation,98.0
+935,Far Eastern Air Transport,208.0
+936,Faraz Qeshm Airlines,30.0
+937,Farnair Hungary,2.0
+938,Faucett,213.0
+939,FedEx,3.0
+940,Federal Airlines,53.0
+941,Federal Express,2.0
+942,Festus Flying Service - Air Taxi,2.0
+943,Fiji Air,2.0
+944,Fiji Air Services,9.0
+945,Filipinas Orient Airways,11.0
+946,Fine Air,4.0
+947,Finnair,47.0
+948,First Air,2.0
+949,Flamingo Airlines - Air Taxi,2.0
+950,Flash Air,148.0
+951,Fleming Airways System Transport,1.0
+952,Fleming International Airways,3.0
+953,Flight Safety Australia,2.0
+954,Flight Service,13.0
+955,Flightline,10.0
+956,Florida Commuter Airlines,34.0
+957,Flota Aérea Mercante Argentina,12.0
+958,Flugefelag,25.0
+959,Flugfelag Austurlands,3.0
+960,Fly 540,3.0
+961,Flying Tiger Line,174.0
+962,Flying W Airways,2.0
+963,Flynn's Ferry Service,2.0
+964,Force Area Populaire de Angola,37.0
+965,Ford Air Freight Inc.,2.0
+966,Formosa Airlines,53.0
+967,Fortaire Aviation - Air Taxi,3.0
+968,Foster Aviation,6.0
+969,Fragtflug,3.0
+970,Francisco Cruz,6.0
+971,Franco-Roumaine,5.0
+972,Fred Olsen Flyveselskap,11.0
+973,Freedom International,1.0
+974,Frigorifico Cooperativo Los Andes,27.0
+975,Frigorifico Maniqui,7.0
+976,Frigorifico Reyes,5.0
+977,Frigorifico Santa Rita,5.0
+978,Frontier Air,1.0
+979,Frontier Airlines,7.0
+980,Frontier Flying Service,3.0
+981,Frontier Flying Service - Air Taxi,7.0
+982,Fuerza Area Angolaise,47.0
+983,Fuerza Aérea Argentina,73.0
+984,Fuerza Aérea Colombiana,80.0
+985,Fuerza Aérea Nicaragua,28.0
+986,Fuerza Aérea Panamena,16.0
+987,Fuerza Aérea Uruguaya,5.0
+988,Fuerza Aérea Venezolana,11.0
+989,Fuerza Aérea del Peru,244.0
+990,Fuji Airlines,20.0
+991,Fujita Koku Kabushki Kai,19.0
+992,Fun Air,5.0
+993,G & W Aviation,5.0
+994,GAS Air,8.0
+995,GLM Aviation,2.0
+996,GP Express Airlines,5.0
+997,GT Air,18.0
+998,Gabon Express,19.0
+999,Gaige Aviation - Air Taxi,5.0
+1000,Galaxy Airlines,70.0
+1001,Galaxy Kavatsi Airlines,8.0
+1002,Galena Air Service - Air Taxi,6.0
+1003,Galesburg Aviation - Air Taxi,2.0
+1004,Gambcrest,30.0
+1005,Gander Aviation,10.0
+1006,Garamut Aviation,3.0
+1007,Garuda  Indonesia Airlines / Garuda Indonesia Airlines,34.0
+1008,Garuda Indonesia Airlines,574.0
+1009,Gastonia Aviation - Taxi,2.0
+1010,Gay Airways - Air Taxi,4.0
+1011,General Air,8.0
+1012,General Airways,4.0
+1013,General Aviation Inc.,2.0
+1014,Georgia Express,10.0
+1015,Georgian Air,24.0
+1016,Geoterrex,3.0
+1017,Ghana Airlink,7.0
+1018,Ghana Airways,1.0
+1019,Ginger Coote Airways,1.0
+1020,Gira Globo Charter,13.0
+1021,Global Executive Aviation,4.0
+1022,Globe Air,126.0
+1023,Glow Air/Air Castle - Charter,3.0
+1024,Gol Airlines / Private,154.0
+1025,Golden Star Air Cargo,7.0
+1026,Golden West Airlines / Private,14.0
+1027,Goose Bay Air Services,4.0
+1028,Gor'ky Eskadril'ya,50.0
+1029,Goroka Air Services,2.0
+1030,Government of Mozambique,34.0
+1031,Grand Aire,2.0
+1032,Grand Canyon Air - Air Taxi,2.0
+1033,Grand Canyon Airlines,16.0
+1034,Grand Canyon Airlines / Helitech,25.0
+1035,Grands Express Aeriens,24.0
+1036,Great Lakes Business Complany,14.0
+1037,Great Western and Southern Air Lines,6.0
+1038,Greek Government,7.0
+1039,Green Acres - Air Taxi,3.0
+1040,Green River Aviation - Air Taxi,3.0
+1041,Greenbriar Airways,4.0
+1042,Greylock Airways / Private,3.0
+1043,Guardia Nacional de Venezuela,16.0
+1044,Guernsey Airways,7.0
+1045,Guiena Airways,1.0
+1046,Guinea Airways,7.0
+1047,Guinea Airways Limited,12.0
+1048,Gulf Air,255.0
+1049,Gulf Aviation (Kalinga Airways),16.0
+1050,Gum Air Charter,10.0
+1051,Guyana Airways,3.0
+1052,Hageland Aviation Services,13.0
+1053,Haines Airways - Air Taxi,4.0
+1054,Hallo Bay Air - Air Taxi,3.0
+1055,Halvorson - Air Taxi,3.0
+1056,Hamilton Aviation,2.0
+1057,Handley Page Transport,9.0
+1058,Hang Khong (Vietnam),76.0
+1059,Hankins Airways - Air Taxi,2.0
+1060,Harbor Airlines - Air Taxi,4.0
+1061,Harbour Air,3.0
+1062,Harbour Air Seaplanes Ltd.,5.0
+1063,Hargreaves Airways,6.0
+1064,Harka Air Services,16.0
+1065,Harold E. Bell - Air Taxi,2.0
+1066,Harold's Air Service,1.0
+1067,Harrington's Inc,3.0
+1068,Harry Faulkner - Air Taxi,2.0
+1069,Harvey's Flying Service - Air Taxi,2.0
+1070,Hati Express,11.0
+1071,Havasu City Air - Air Taxi,3.0
+1072,Haïti Air Inter,19.0
+1073,Heavylift Cargo Airlines,6.0
+1074,Helaire Helicopter,3.0
+1075,Heli-USA Airways,4.0
+1076,"Heli-USA Airways, In- Air Taxi",4.0
+1077,Heliandes,16.0
+1078,Helicol Colombia,3.0
+1079,Helicopter - Air Taxi,2.0
+1080,Helicopteros Nacionales de Colombia,15.0
+1081,Helicsa,11.0
+1082,Helikopter Service,18.0
+1083,Helios Airways,121.0
+1084,Helisul Taxi Aéreo,2.0
+1085,Heliwork WA Pty Ltd. - Air Taxi,4.0
+1086,Henry Nichols - Air Taxi,2.0
+1087,Henry Webber Air - Air Taxi,2.0
+1088,Heringer Air Taxi,4.0
+1089,Hesler Noble - Air Taxi,2.0
+1090,Hewa Bora Airways,0.0
+1091,HiTech Helicopters,4.0
+1092,Hibiscus Air,9.0
+1093,Himmelsschreiber,5.0
+1094,Hlavka Aviation - Air Taxi,2.0
+1095,Holdens Air Transport Service,2.0
+1096,Holmstoem Air,16.0
+1097,Holyman Airways,18.0
+1098,Homer Air Service - Air Taxi,2.0
+1099,Horizon Properties,5.0
+1100,Hornbill Airways,1.0
+1101,Hoseba,10.0
+1102,Houston Metro Airlines,6.0
+1103,Houston-Beech - Air Taxi,3.0
+1104,Hudgin Air Service,7.0
+1105,Hudson Air Service - Air Taxi,2.0
+1106,Hughes Airwest  / Military - US Marine Air Corps,50.0
+1107,Hunter Airways,2.0
+1108,Hunting Air Travel,33.0
+1109,Huron Air,2.0
+1110,Hyannis Air Service - Air Taxi,3.0
+1111,IAI 1124 Westwind,3.0
+1112,IAS Cargo,6.0
+1113,IMSS,13.0
+1114,Iberia Airlines,483.0
+1115,Iberia Airlines / Aviaco,93.0
+1116,Ibertrans Aérea,3.0
+1117,Icelandair,40.0
+1118,Imperial Airways,185.0
+1119,Imperial Comm - Air Taxi,3.0
+1120,Inair Panama,2.0
+1121,Indamer,14.0
+1122,Independent Air Inc.,144.0
+1123,Independent Air Travel,3.0
+1124,Indian Airlines,863.0
+1125,Indian Airlines/Alliance Airlines,55.0
+1126,Indian National Airlines,41.0
+1127,Indian National Airways,2.0
+1128,Indonesian National Police,15.0
+1129,Inex Adria Aviopromet,75.0
+1130,Inex Adria Aviopromet (Yugoslavia),180.0
+1131,Inex Adria Aviopromet / British Airways,176.0
+1132,Inland Aviation - Air Taxi,2.0
+1133,Inter City Flug,7.0
+1134,Inter Island Air - Air Taxi,2.0
+1135,Inter Island Air Services,10.0
+1136,Inter-Island,1.0
+1137,Interamericana de Aviacion,5.0
+1138,Intercontinental de Aviacion,51.0
+1139,Interflug,212.0
+1140,Interior Airways,2.0
+1141,Interior Airways - Air Taxi,2.0
+1142,International Air Freight,1.0
+1143,International Control Commision,13.0
+1144,International Jet Charter,2.0
+1145,Interocean,1.0
+1146,Interstate Airlines,4.0
+1147,Intracostals - Air Taxi,3.0
+1148,Inuvik Coastal Airways,2.0
+1149,Invicta International Airlines (UK),108.0
+1150,Iran Air,343.0
+1151,Iran Air Tours,146.0
+1152,Iran Air Tours  /  Military - Iranian Air Force,133.0
+1153,Iran Asseman Airlines,66.0
+1154,Iran National Airlines,128.0
+1155,Iraqi Airways,193.0
+1156,Island Air,13.0
+1157,Island Airways,4.0
+1158,Island Airways Ltd.,8.0
+1159,Island Express Helicopter Service,4.0
+1160,Island Sky Ferry - Air Taxi,0.0
+1161,Islands Nationair,13.0
+1162,Islands of the Bahamas Inc,2.0
+1163,Itavia,141.0
+1164,Itek Air,68.0
+1165,Ivolga Avia,8.0
+1166,JAT Yugoslav Airlines,136.0
+1167,JC Air,7.0
+1168,Jack Harter Helicopters,5.0
+1169,Jack N. Boswick - Air Taxi,2.0
+1170,Jamair,20.0
+1171,Jamie Ramirez - Air Taxi,3.0
+1172,Japan Air Lines,764.0
+1173,Japan Air Self-Defence Force,14.0
+1174,Japan Aviation Corporation,10.0
+1175,Jay Hawk Air - Air Taxi,3.0
+1176,Jersey Airways,14.0
+1177,Jet Alaska,4.0
+1178,Jet Avia Charter,4.0
+1179,Jet Charter Group,2.0
+1180,Jet Pro,2.0
+1181,Jet Wings,1.0
+1182,Jetcom S.A.,8.0
+1183,Jetcraft,1.0
+1184,Jetstream Inc.,3.0
+1185,Jett Paqueteria SA,5.0
+1186,Jetwingsco Inc. - Private Charter,18.0
+1187,Johnson Flying Service,10.0
+1188,Jordan International Airlines,1.0
+1189,Juba Air Cargo,7.0
+1190,Junction City Fire Department,9.0
+1191,KLM Cityhopper,3.0
+1192,KLM Royal Dutch Airlines,616.0
+1193,KNILM,16.0
+1194,Kalinga Airlines,43.0
+1195,Kalinin,14.0
+1196,Kam Air,104.0
+1197,Kamchatavia,11.0
+1198,Kansas City Southern Skyways,2.0
+1199,Kapowsin Air Sports,10.0
+1200,Karibu Airways,2.0
+1201,Kata Transportation,8.0
+1202,Kauai Helicopter - Air Taxi,2.0
+1203,Kavatshi Airlines,11.0
+1204,Kelowna Flightcraft Air Charter,2.0
+1205,Kenai Air Service - Air Taxi,8.0
+1206,Kenmore Air  - Air Taxi,7.0
+1207,Kenn Borek Air,10.0
+1208,Kenya Airways,283.0
+1209,Key West Sea Plane Service - Air Taxi,5.0
+1210,Keystone Air Services Ltd. - Air Taxi,1.0
+1211,Khalatyrka,20.0
+1212,Khors Aircompany,11.0
+1213,Kiev Production Association,1.0
+1214,Kime Flying Service - Air Taxi,3.0
+1215,Kimura International,10.0
+1216,Kinair Cargo,5.0
+1217,King Air Charter,3.0
+1218,Kirghizia Aba Zaoldoru,15.0
+1219,Kisangani Airlift,10.0
+1220,Kish Airlines,43.0
+1221,Kismayo Airlines,8.0
+1222,Kivu Air Services,2.0
+1223,Kiwi West Aviation,6.0
+1224,Knight Air,12.0
+1225,Knowles Flying Service of Detroit,3.0
+1226,Kodiak Airways,6.0
+1227,Kodiak Western Alaska Airlines,4.0
+1228,Komi Avia,14.0
+1229,Kondair,1.0
+1230,Korean Air,7.0
+1231,Korean Airlines,713.0
+1232,Krasnoyarskavia,10.0
+1233,Krasnoyarskie Avialinii,20.0
+1234,Kuban Airlines,36.0
+1235,Kurtzer Flying Service - Taxi,2.0
+1236,Kuwait Airways,2.0
+1237,L & J Company,6.0
+1238,L'Armée de L'Air,21.0
+1239,L'Express Airlines,13.0
+1240,L.J. Simmons - Air Taxi,4.0
+1241,LAC Colombia,11.0
+1242,LAC Columbia,4.0
+1243,LACOL,2.0
+1244,LACSA,11.0
+1245,LADE,11.0
+1246,LAN,156.0
+1247,LANC Colombia,5.0
+1248,LANSA,141.0
+1249,"LAPA, Lineas Aereas Privadas Argentinas",64.0
+1250,LARES,29.0
+1251,LATI,10.0
+1252,LAV - Linea Aeropostal Venezolana,47.0
+1253,LOT Polish Airlines,417.0
+1254,La Costena,16.0
+1255,Lab Flying Service - Air Taxi,6.0
+1256,Labradore Airways,4.0
+1257,Lackey Aero Company - Taxi,4.0
+1258,Ladeco,36.0
+1259,Lake Central Airlines,38.0
+1260,Lake Havasu Air,6.0
+1261,Lambair,2.0
+1262,Lancashire Aircraft Corporation (Skyways),39.0
+1263,Lanica,20.0
+1264,Lao Aviation,26.0
+1265,Lao Cathay Airlines,10.0
+1266,Laoag International Airlines,19.0
+1267,Las Vegas Airlines,33.0
+1268,Latecoere Airlines,22.0
+1269,Lauda Air,223.0
+1270,Laurentian Air Services,5.0
+1271,Layman Weikle - Taxi,2.0
+1272,Leadair - Charter,10.0
+1273,Leamon Flying Service,3.0
+1274,Lebanese International Airways,27.0
+1275,Leeward Islands Air Transport,13.0
+1276,Lehigh Acres Development Inc.,1.0
+1277,Les Ailes de Gaspé Inc.,3.0
+1278,Lester C. Bush - Air Taxi,3.0
+1279,Lexington Air Taxi,9.0
+1280,Liard Air,1.0
+1281,Libya Arab Airlines,110.0
+1282,Libya Arab Airlines / Military -  Libya Air Force,157.0
+1283,Lignes Aeriennes Latecoere,5.0
+1284,Lina Congo,3.0
+1285,Linair Express,7.0
+1286,Linea Aeropostal Venezolana,313.0
+1287,Linea Aérea Mexicana de Carga,2.0
+1288,Linea Aérea Nacional,1.0
+1289,Linea Expresa Bolivar,4.0
+1290,Lineas Aereas,20.0
+1291,Lineas Aereas Mineras,12.0
+1292,Lineas Aereas Nacionales SA (Peru),190.0
+1293,Lineas Aereas Suramericanas,3.0
+1294,Lineas Aereas Unidas,13.0
+1295,Lineas Aereas de Angola,29.0
+1296,Lineas Aereas de Espana/Spantax SA Transportes,68.0
+1297,Lineas Aereas de los Libertadores,8.0
+1298,Lineas Aereas del Caribe,4.0
+1299,Lineas Aereas del Estado,16.0
+1300,Lineas Areas Unidas,22.0
+1301,Lineas Areas Venezolanas,34.0
+1302,Lineas Areas del Centro,18.0
+1303,Lineas Aéreas Brasil,5.0
+1304,Lineas Aéreas Cave,3.0
+1305,Lineas Aéreas Colombianas,7.0
+1306,Lineas Aéreas Costarricenses,2.0
+1307,Lineas Aéreas Costarricenses  LACSA,22.0
+1308,Lineas Aéreas Interpolar,8.0
+1309,Lineas Aéreas La Urraca,18.0
+1310,Lineas Aéreas Mineras,1.0
+1311,Lineas Aéreas Nacionales,27.0
+1312,Lineas Aéreas Sud Americana,5.0
+1313,Lineas Aéreas Suramericanas,8.0
+1314,Lineas Aéreas Trans. Brasileira,2.0
+1315,Lineas Aéreas la Urraca,20.0
+1316,Linee Aeree Italiane,107.0
+1317,Linjefyg,31.0
+1318,Lion Air,26.0
+1319,Lionair,55.0
+1320,Lisa Jet Inc. - Air Taxi,3.0
+1321,Living Water Teaching Ministries Charter,11.0
+1322,Livingston Helicopter - Air Taxi,5.0
+1323,Lloyd Aereo Boliviano,281.0
+1324,Lloyd Aereo Colombiano,37.0
+1325,Lloyd Aero Boliviano,2.0
+1326,Lloyd Aéreo Boliviano,8.0
+1327,Lockheed AC-130H Hercules,13.0
+1328,Loftleidir IcelandiAirlines,188.0
+1329,Loganair,8.0
+1330,Loide Aereo Nacional,46.0
+1331,Loide Aéreo Nacional,18.0
+1332,Loma Linda University - Air Taxi,4.0
+1333,Lone Star Airlines,3.0
+1334,Los Angeles Airways,44.0
+1335,Luft-Taxi Emsland,6.0
+1336,Lufthansa,146.0
+1337,Lufthansa Cargo Airlines,5.0
+1338,Lufthansa Cityline,4.0
+1339,Lumbini Airways,18.0
+1340,Luthi Aviation - Air Taxi,2.0
+1341,Luxair,20.0
+1342,Líder Táxi Aéreo,4.0
+1343,Líneas Aéreas Suramericanas,3.0
+1344,MALERT,2.0
+1345,MAP,27.0
+1346,MAP - Ministerstvo Aviatsionnoi Promyshlennosti,9.0
+1347,MATS - Manila Aero Transport System,7.0
+1348,MD Air Services,6.0
+1349,MIAT - Mongolian Airlines,147.0
+1350,MK Airlines,8.0
+1351,MMM Aero Services,30.0
+1352,MaRoberston-Miller Airlines,18.0
+1353,MaRobertson Miller Airlines,2.0
+1354,MaRobertson-Miller Airlines,26.0
+1355,Mabuhay Airways,1.0
+1356,Macchi,13.0
+1357,Macon Horizons - Air Taxi,4.0
+1358,Maddux Airlines,16.0
+1359,Maddux Airlines / Military - U.S.Army Air Force,6.0
+1360,Madrid Taxi Aéreo - Charter,9.0
+1361,Magistralnye Avialinii,17.0
+1362,MajestiAir Cargo,2.0
+1363,Malaysia Airlines,134.0
+1364,Malert Airlines,12.0
+1365,Malev Hungarian Airlines,227.0
+1366,Malindi Air Services,2.0
+1367,Malu Aviation,8.0
+1368,Mamer - Shreck  - Air Taxi,3.0
+1369,Manacá Táxi Aéreo,5.0
+1370,Manchurian Air Lines,18.0
+1371,Mandala Airlines,169.0
+1372,Mango Airlines,5.0
+1373,Mannin Airways,8.0
+1374,Manunggal Air,1.0
+1375,Marco Zero Air Taxi,5.0
+1376,Maritime Central Airways,85.0
+1377,MarkAir Commuter,1.0
+1378,Marsland Aviation,7.0
+1379,Martinair Holland NV,247.0
+1380,Maryland State Police,4.0
+1381,Mavrik Aire Transport,1.0
+1382,Mayoral Executive Jet,1.0
+1383,McCoy Flying Service - Taxi,2.0
+1384,McKenzie Flying Service - Air Taxi,3.0
+1385,McKinley Air Service - Air Taxi,4.0
+1386,Med Flight Air Ambulance - Private,5.0
+1387,Mercer Airlines,3.0
+1388,Mercury Aviation,13.0
+1389,Merpati Nasantara Airlines,18.0
+1390,Merpati Nusantara Airlines,268.0
+1391,MerriAviation - Air Taxi,4.0
+1392,Metro Air Systems,11.0
+1393,Metro Aviation,3.0
+1394,Metro Cargo,4.0
+1395,Metro Commuter - Air Taxi,5.0
+1396,Mexican Government,8.0
+1397,Mexicana,290.0
+1398,Miami Airlines,63.0
+1399,Mid Continent Airlines,16.0
+1400,Mid Island Air - Air Taxi,3.0
+1401,Mid PacifiAir,2.0
+1402,Mid-AtlantiFreight,1.0
+1403,Middle East Airlines,140.0
+1404,Middle East Airlines / Military - Turkish Air ForceC-47,17.0
+1405,Middle States Airlines,4.0
+1406,Midwest Express,31.0
+1407,Mililtary - Royal Canadian Air Force,7.0
+1408,Mililtary - Soviet Air Force,20.0
+1409,Mililtary - U.S. Navy,12.0
+1410,Military -  (2) U.S. Army Air Forces,20.0
+1411,Military - Afghan Republican Air Force,578.0
+1412,Military - Algerian Air Force,4.0
+1413,Military - Angolan  Air Force,5.0
+1414,Military - Angolan Air Force,211.0
+1415,Military - Angolan Armed Forces,20.0
+1416,Military - Argentine Air Force,228.0
+1417,Military - Argentine Navy,12.0
+1418,Military - Armée de l'Air Malgache,13.0
+1419,Military - Australian Army Aviation,18.0
+1420,Military - Azerbaijan Air Force,87.0
+1421,Military - Belgian Air Force,85.0
+1422,Military - Bolivian Air Force,56.0
+1423,Military - Brazilian Air Force,193.0
+1424,Military - British Air Ministry,48.0
+1425,Military - Burma Air Force,17.0
+1426,Military - Canadian Air Force,9.0
+1427,Military - Canadian Army,11.0
+1428,Military - Centrafricain Airlines,24.0
+1429,Military - Chadian Air Force,5.0
+1430,Military - Chilean Air Force,73.0
+1431,Military - Chilian Air Force,20.0
+1432,Military - Chilian Navy,11.0
+1433,Military - Chinese Air Force,125.0
+1434,Military - Colombian Air Force,62.0
+1435,Military - Colombian Army,26.0
+1436,Military - Colombian government,20.0
+1437,Military - Congolese Air Force,48.0
+1438,Military - Corrieri Aerei Militari,16.0
+1439,Military - Cuban Air Force,29.0
+1440,Military - Deutsche Luftwaffe,40.0
+1441,Military - Dostum-Galboddin Militia,50.0
+1442,Military - Ecuadorean Air Force,49.0
+1443,Military - Ecuadorian Air Force,12.0
+1444,Military - Egyptian Air Force,72.0
+1445,Military - Ejército del Aire,0.0
+1446,Military - El Salvador Air Force,37.0
+1447,Military - Ethiopian Air Force,153.0
+1448,Military - Federal Nigerian Air Force,158.0
+1449,Military - Finish Air Force,15.0
+1450,Military - Florida Army National Guard,21.0
+1451,Military - Force Aérienne Zaïroise,36.0
+1452,Military - Forces Militaires Françaises,37.0
+1453,Military - Força Aérea Brasileira,20.0
+1454,Military - Força Aérea Portuguesa,21.0
+1455,Military - French Air Force,186.0
+1456,Military - French Naval Aviation,57.0
+1457,Military - French Navy,52.0
+1458,Military - Fuerza Aérea Argentina,6.0
+1459,Military - Fuerza Aérea Colombiana,7.0
+1460,Military - Fuerza Aérea de Chile,14.0
+1461,Military - Fuerza Del Peru,13.0
+1462,Military - Georgian Air Force,83.0
+1463,Military - German Air National Guard,4.0
+1464,Military - German Army,67.0
+1465,Military - German Navy,313.0
+1466,Military - Government of Equatorial Guinea,13.0
+1467,Military - Government of Macedonia,9.0
+1468,Military - Greek Air Force,5.0
+1469,Military - Greek Army,17.0
+1470,Military - Guatemalan Air Force,25.0
+1471,Military - HelleniAir Force,63.0
+1472,Military - Honduran Air Force,84.0
+1473,Military - Imperial Iranian Air Force,50.0
+1474,Military - Indian Air Force,442.0
+1475,Military - Indian Navy,12.0
+1476,Military - Indonesian Air Force,285.0
+1477,Military - Iranian Air Force,295.0
+1478,Military - Iranian Revolutionary Guard Corps Air Force,49.0
+1479,Military - IslamiRepubliof Iran Air Force,109.0
+1480,Military - IslamiRevolution's Guards Corps,275.0
+1481,Military - Israel  Air Force,20.0
+1482,Military - Israel Air Force,54.0
+1483,Military - Israel Air Force /Military -  Israel Air Force,73.0
+1484,Military - Italian Air Force,66.0
+1485,Military - Japan Air Self Defense Force,10.0
+1486,Military - Japan Maritime Self Defense Force,69.0
+1487,Military - Japanese Air Self-Defence Force,5.0
+1488,Military - Kenya Air Force,14.0
+1489,Military - Kenyan Air Force,46.0
+1490,Military - Kuwait Air Force,8.0
+1491,Military - Lao People's Liberation Army Air Force,26.0
+1492,Military - Luftwaffe,10.0
+1493,Military - Luftwaffe / Military - USAF,33.0
+1494,Military - Lybian Arab Air Force,6.0
+1495,Military - Macedonian Air Force,11.0
+1496,Military - Madagascar Air Force,34.0
+1497,Military - Malaysian Air Force,5.0
+1498,Military - Mauritanian Air Force,51.0
+1499,Military - Mexican Air Force,36.0
+1500,Military - Mozambique Air Force,70.0
+1501,Military - Nicaraguan Air Force,165.0
+1502,Military - Niger Air Force,14.0
+1503,Military - Nigerian Air Force,27.0
+1504,Military - Pakistan Air Force,102.0
+1505,Military - People's Army/ Military - Peoples Air Force,24.0
+1506,Military - People's Liberation Army,16.0
+1507,Military - Peruvian Air Force,67.0
+1508,Military - Peruvian Air Force - TANS,8.0
+1509,Military - Peruvian Army Aviation,23.0
+1510,Military - Peruvian Naval Aviation,42.0
+1511,Military - Philippine Air Force,194.0
+1512,Military - Polish Air Force,53.0
+1513,Military - Portuguese Air Force,37.0
+1514,Military - Republiof China Air Force,92.0
+1515,Military - Republiof South Korea Air Force,121.0
+1516,Military - Royal Air Force,525.0
+1517,Military - Royal Airship Works,46.0
+1518,Military - Royal Australian Air Force,185.0
+1519,Military - Royal Belgian Air Force,75.0
+1520,Military - Royal British Navy,25.0
+1521,Military - Royal Canadian Air Force,89.0
+1522,Military - Royal HelleniAir Force,23.0
+1523,Military - Royal Indian Air Force,27.0
+1524,Military - Royal Jordanian Air Force,26.0
+1525,Military - Royal Lao Air Force,35.0
+1526,Military - Royal Lesotho Defence Force,18.0
+1527,Military - Royal Nepalese Air Force,56.0
+1528,Military - Royal Netherlands East Indies Air Force,20.0
+1529,Military - Royal Netherlands Naval Air Service,1.0
+1530,Military - Royal Norwegian Air Force,19.0
+1531,Military - Royal Saudi Air Force,187.0
+1532,Military - Royal Thai Air Force,104.0
+1533,Military - Russian,18.0
+1534,Military - Russian Air Force,797.0
+1535,Military - Russian Air Force / Military - Russian Air Force,77.0
+1536,Military - Russian Air Force/Uzbekistan Airways,15.0
+1537,Military - Russian Army,12.0
+1538,Military - Russian Navy,17.0
+1539,"Military - Russian, cargo",18.0
+1540,Military - Salvadoran Air Force,28.0
+1541,Military - Salvadorian Air Force,12.0
+1542,Military - Servicio Aereo Nacional,11.0
+1543,Military - Slovak Air Force,42.0
+1544,Military - South African Air Force,52.0
+1545,Military - Soviet Air Force,268.0
+1546,Military - Soviet Navy,52.0
+1547,Military - Spanish Air Force,16.0
+1548,Military - Spanish Air Force.,22.0
+1549,Military - Sri Lanka Air Force,273.0
+1550,Military - Sudan Air Force,91.0
+1551,Military - Sudanese Air Force,91.0
+1552,Military - Taliban Militia,20.0
+1553,Military - Tentara Nasional Indonesia Navy,9.0
+1554,Military - Thai Army,10.0
+1555,Military - Turkish Air Force,44.0
+1556,Military - U. S. Air Force,36.0
+1557,Military - U. S. Navy,42.0
+1558,Military - U.S.  Air Force / Military - U.S. Navy,47.0
+1559,Military - U.S. Air Force,3717.0
+1560,Military - U.S. Air Force / Military -  U.S. Air Force,16.0
+1561,Military - U.S. Air Force / Military -  U.S. Army,25.0
+1562,Military - U.S. Air Force / Military - U.S. Air Force,79.0
+1563,Military - U.S. Air Force / Military U.S. Air Force,0.0
+1564,Military - U.S. Air Force / U.S. Air Force,28.0
+1565,Military - U.S. Air Force/Military - U.S. Air Force,18.0
+1566,Military - U.S. Army,498.0
+1567,Military - U.S. Army / Military - U.S. Army,44.0
+1568,Military - U.S. Army / Military U.S. Army,26.0
+1569,Military - U.S. Army Air Corps,13.0
+1570,Military - U.S. Army Air Force,19.0
+1571,Military - U.S. Army Air Forces,1070.0
+1572,Military - U.S. Army Air Forces / Military - U.S. Army Air Forces,25.0
+1573,Military - U.S. Army Air Service,34.0
+1574,Military - U.S. Marine Corps,362.0
+1575,Military - U.S. Marine Corps/Military - U.S. Marine Corps,48.0
+1576,Military - U.S. Marines,31.0
+1577,Military - U.S. Navy,767.0
+1578,Military - U.S. Navy / Military -  U.S. Navy,27.0
+1579,Military - U.S. Navy / Military - U.S. Navy,33.0
+1580,Military - U.S. Navy / NASA,16.0
+1581,Military - US Air Force,10.0
+1582,Military - US Army,12.0
+1583,Military - Ukraine Air Force,0.0
+1584,Military - Unified Yemen Air Force,57.0
+1585,Military - Union of Burma Air Force,75.0
+1586,Military - United States Air Force,5.0
+1587,Military - United States Army Air Force,33.0
+1588,Military - United States Marine Corps,4.0
+1589,Military - United States Navy,24.0
+1590,Military - Uruguayan Air Force,44.0
+1591,Military - Venezuelan Air Force,93.0
+1592,Military - Venezuelan Army,24.0
+1593,Military - Venezuelan Navy,46.0
+1594,Military - Vietnamese Air Force,190.0
+1595,Military - Vietnamese Air Force / Military - U.S. Army,18.0
+1596,Military - West German Air Force,35.0
+1597,Military - Zairean Air Force,87.0
+1598,Military - Zambia Air Force,13.0
+1599,Military - Zambian Air Force,59.0
+1600,Military - Zimbabwe Air Force,17.0
+1601,Military -Royal Air Force,524.0
+1602,Military Soviet  Air Force - Aeroflot,120.0
+1603,Military U.S. Navy,0.0
+1604,Military U.S. Navy / Military - U.S. Navy,28.0
+1605,Million Air,4.0
+1606,Milne Bay Air,36.0
+1607,Miltiary - U.S. Airforce,6.0
+1608,Mimika Air,11.0
+1609,Mineral County Airlines,35.0
+1610,Minerva Airlines,4.0
+1611,Ministerstvo Obshchestvo Mashinostroyeniya,9.0
+1612,Misrair,78.0
+1613,Missionary Aviation Fellowship,36.0
+1614,Mohawk Airlines,71.0
+1615,Moldovan Aeriantur-M Air Cargo,34.0
+1616,Monarch Aviation,3.0
+1617,Mongolian Defense Ministry,15.0
+1618,Monmouth Airways,4.0
+1619,Monument Valle - Air Taxi,2.0
+1620,Moore's Air Charter,12.0
+1621,Morningstar Air Express,1.0
+1622,Morris Hancock Flying Club - Charter,3.0
+1623,Moskovia Airlines,9.0
+1624,Mountain Air Cargo,2.0
+1625,Moyer Aviation - Air Taxi,4.0
+1626,Mt. McKinley Airfreight,4.0
+1627,Munz Northern Airlines,4.0
+1628,Mustang Aviati,5.0
+1629,Mustique Airways,1.0
+1630,Myanmar Airways,76.0
+1631,NC Simpson - Taxi,4.0
+1632,NFD - Nurnberger Flugdienst,21.0
+1633,NHR Táxi-Aéreo,2.0
+1634,NLM (Nederlandse Luchtvaart Maatschappij),17.0
+1635,"NY, Phil., Washington AW",5.0
+1636,Nacional de Aviacion,18.0
+1637,Naftogaz,20.0
+1638,Nahanni Air Services,7.0
+1639,Nash and Tampo - Air Taxi,5.0
+1640,Naske Air,3.0
+1641,Nationair (chartered by Nigeria Airways),261.0
+1642,National Air Operators,3.0
+1643,National Air Transport,10.0
+1644,National Air Transport Services,13.0
+1645,National Airlines,164.0
+1646,National Airways,3.0
+1647,"National Jet Services Inc.,  (Air Indiana)",29.0
+1648,National Parks Airways,7.0
+1649,Nationwide Air Transport,3.0
+1650,Naturelink,1.0
+1651,Navegacao Aerea Brasileira,11.0
+1652,Naysa Aerotaxis,8.0
+1653,Necon Air,19.0
+1654,New  York Helicopter,4.0
+1655,New England Airlines,8.0
+1656,New England Airways,3.0
+1657,New England Aviaiton,4.0
+1658,New Standard Airlines,4.0
+1659,New Tribes Mission,36.0
+1660,New York Airways,12.0
+1661,New Zealand National Airways,56.0
+1662,NewCal Aviation,3.0
+1663,Nigeria Airways,167.0
+1664,Nightexpress,2.0
+1665,Nile Delta Air Services,18.0
+1666,Nile Safaris Aviation,14.0
+1667,Nordair,6.0
+1668,Nordchurchaid,5.0
+1669,Nordeste Linhas Aereas,15.0
+1670,Nordeste Linhas Aéreas,16.0
+1671,Norilsk Flight Company,15.0
+1672,Norte Jet Táxi Aéreo,2.0
+1673,North American Sabreliner 40,11.0
+1674,North Bay Charter,10.0
+1675,North Canada Air,1.0
+1676,North Cay Air - Air Taxi,2.0
+1677,North Cay Airways,2.0
+1678,North Central Airlines,27.0
+1679,North Central Airlines / Air Wisconsin,13.0
+1680,North Central Airlines / Private,3.0
+1681,North Coast Aviation,4.0
+1682,North Continental Airlines (Robin Airlines),29.0
+1683,North East Bolivian Airways,1.0
+1684,North PacifiAirlines,9.0
+1685,North Queensland Airways,5.0
+1686,North Sea Aerial and General Transport,1.0
+1687,North Sound Aviation,7.0
+1688,North Star Air Cargo,1.0
+1689,North Western Air Transport,13.0
+1690,Northeast Airlines,91.0
+1691,Northeast Jet,3.0
+1692,Northern Air (Tanzania),12.0
+1693,Northern Air Cargo,4.0
+1694,Northern Executive Aviation,2.0
+1695,Northern Illinois Flight Center,2.0
+1696,Northern Thunderbird Air,7.0
+1697,Northern Thunderbird Air Ltd.,12.0
+1698,Northern Wings,3.0
+1699,Northwest Airlines,154.0
+1700,Northwest Airlines/ Northwest Airlines,8.0
+1701,Northwest Airlink,9.0
+1702,Northwest Airways,1.0
+1703,Northwest Moon - Air Taxi,3.0
+1704,Northwest Orient Airlines,531.0
+1705,Norwegian Airlines,54.0
+1706,Nuna Air,8.0
+1707,Nyika Safaris,6.0
+1708,Ocean Airlines,1.0
+1709,Oceanaire Helicopter - Air Taxi,4.0
+1710,Oefag Flugdienst,9.0
+1711,Oeste Linhas Aereas,6.0
+1712,Okada Air,4.0
+1713,Okanagan Helicopters,13.0
+1714,OlympiAirways,195.0
+1715,OlympiAviation,34.0
+1716,One-Two-Go Airlines,90.0
+1717,Onzeair,4.0
+1718,Orcon Inc. - Air Taxi,2.0
+1719,Orient Air System and Integrated Services,1.0
+1720,Orient Airways,17.0
+1721,Oriental Airlines,5.0
+1722,Orion - Air Taxi,4.0
+1723,Orlando Airways - Air Taxi,4.0
+1724,Ortner Air Service - Taxi,2.0
+1725,Overseas National Airways,2.0
+1726,Oxaero Ltd.,4.0
+1727,Ozark Air Lines,38.0
+1728,Ozark Air Lines / Private,2.0
+1729,PENAS,6.0
+1730,PHI Air Medical,4.0
+1731,PMT Air,22.0
+1732,PT Air Regional,4.0
+1733,PacifiAir,2.0
+1734,PacifiAir Lines,45.0
+1735,PacifiAir Transport,14.0
+1736,PacifiAirways,1.0
+1737,PacifiAlaska Air Freight,17.0
+1738,PacifiAlaska Airlines,3.0
+1739,PacifiCoast Airlines,5.0
+1740,PacifiCoastal Airlines,14.0
+1741,PacifiNorthern Airlines,14.0
+1742,PacifiOverseas Airways,24.0
+1743,PacifiSouthwest Airlines,46.0
+1744,PacifiSouthwest Airlines / Private,137.0
+1745,PacifiWestern Airlines,59.0
+1746,Page Airways,6.0
+1747,Pakair,26.0
+1748,Pakistan Airways,21.0
+1749,Pakistan International Airlines,693.0
+1750,Palair Macedonian,83.0
+1751,Pan African Air Charter,42.0
+1752,Pan African Airlines,57.0
+1753,Pan American Airways,33.0
+1754,Pan American Airways (Scadta),5.0
+1755,Pan American Grace Airlines,17.0
+1756,Pan American Grace Airways,23.0
+1757,Pan American World Airways,1302.0
+1758,Pan American World Airways / KLM,583.0
+1759,Pan ArctiOil,32.0
+1760,Pan International,22.0
+1761,Pan Malaysian Air Transport,16.0
+1762,Panagra,14.0
+1763,Panair do Brasil,266.0
+1764,Panair do Brazil,15.0
+1765,Panorama Air Tour,8.0
+1766,Papillon Grand Canyon Helicopters of Las Vegas,6.0
+1767,Paradise Air,9.0
+1768,Paradise Airlines,85.0
+1769,Paradise Tour Helicopters,4.0
+1770,Paraense Transportes Aereos,38.0
+1771,Paraense Transportes Aéreos,17.0
+1772,Paramount Airlilnes,21.0
+1773,Parsa,10.0
+1774,Partnair,55.0
+1775,Patagonia Airlines,10.0
+1776,Pathet Lao Airlines,18.0
+1777,Patuxent Airways / Private,11.0
+1778,Paukn Air,38.0
+1779,Paul Kelly Flying Service Inc.,8.0
+1780,Pavair,2.0
+1781,Pel Air,2.0
+1782,Pelita Air Service,67.0
+1783,PenAir,12.0
+1784,Peninsula Air Services,6.0
+1785,Peninsular,28.0
+1786,Penninsula Airways - Air Taxi,4.0
+1787,Pennsylvania Airlines,1.0
+1788,Pennsylvania Central Airlines,98.0
+1789,Perimeter Airlines,2.0
+1790,Permaviatrans,24.0
+1791,Perris Valley Aviation,16.0
+1792,Petroleum Helicopter,49.0
+1793,Petroleum Helicopters Inc,8.0
+1794,Petrolium Helicopter,11.0
+1795,Petrolium Helo Inc.,5.0
+1796,Petroproducción,26.0
+1797,Philippine Aerotransport,20.0
+1798,Philippine Air Express,5.0
+1799,Philippine Air Lines,455.0
+1800,Phillips Flying Service - Air Taxi,4.0
+1801,Phoenix Air,2.0
+1802,Phoenix Airlines,2.0
+1803,Phoenix Aviation,5.0
+1804,Pickwick Airways,1.0
+1805,Piedmont Airlines,64.0
+1806,Piedmont Airlines / Private,86.0
+1807,Pilgrim Airlines,6.0
+1808,Pinnacle Airlines/Northwest Airlink,2.0
+1809,Pioneer Airlines,11.0
+1810,Plane Sailing,4.0
+1811,Planemasters,1.0
+1812,Points North Air Services,2.0
+1813,Polynesian Airlines,35.0
+1814,Portsmouth Aviation - Air Taxi,2.0
+1815,President Airlines,83.0
+1816,Presidental Airways Inc. - Air Taxi,6.0
+1817,Prestige Airlines (Cargo) Charter,25.0
+1818,Price Aircraft Company,6.0
+1819,Prinair,32.0
+1820,Prior Aviatoin - Air Taxi,3.0
+1821,Priority Air - Air Taxi,3.0
+1822,Priorty Air Charter,1.0
+1823,Private,123.0
+1824,Private  - Daewoo Shipbuilding,8.0
+1825,Private - Air Taxi,2.0
+1826,Private - Ashland Oil Company,13.0
+1827,Private - Boeing Aircraft Company,10.0
+1828,Private - Corporate,8.0
+1829,Private - Facilities Management Co.,9.0
+1830,Private - Hendrick Motorsports Inc.,10.0
+1831,Private - Kabanov - skydiving,11.0
+1832,Private - Mainline Aviation,4.0
+1833,Private - Omniflight Helicopters,5.0
+1834,Private - OverteCompany,13.0
+1835,Private - Parajump air show,11.0
+1836,Private - Purdue Reasearch Foundation,2.0
+1837,Private - Techint  group,10.0
+1838,Private - WNBC,2.0
+1839,Private - de Havilland Aircraft,1.0
+1840,Private Charter,9.0
+1841,Private KNBC Los Angeles,2.0
+1842,Private Wings,10.0
+1843,Private air taxi,4.0
+1844,Private charter,8.0
+1845,Procuradoria General de la Republica,7.0
+1846,Procuraduría General de la República,5.0
+1847,Procurator Generale de la Republica,10.0
+1848,Professional Aviation Services,3.0
+1849,Propair,11.0
+1850,Prospec,3.0
+1851,Proteus Air / Private,15.0
+1852,Provincetown - Boston Airlines,14.0
+1853,Provincial Air Services,4.0
+1854,Provincial Airlines,1.0
+1855,Ptarmigan Airways,2.0
+1856,Pudget Sound Air - Air Taxi,10.0
+1857,Pulkovo Airlines,170.0
+1858,Pulkovo Aviation Enterprise,14.0
+1859,Purdue Airlines Inc.,1.0
+1860,Qantas,89.0
+1861,Quakertown Aviation - Air Taxi,4.0
+1862,Quebecair,21.0
+1863,Queen Airmotive - Air Taxi,4.0
+1864,Queen Charlotte Airlines,37.0
+1865,Queensland Airlines,18.0
+1866,RAM,3.0
+1867,RCMP-GRC Air Services,2.0
+1868,REAL,145.0
+1869,REAL / Military - U.S. Navy,61.0
+1870,RRC Air Service,16.0
+1871,Radeair,8.0
+1872,Rambar Aviation - Air Taxi,4.0
+1873,Rapid Air Transport,7.0
+1874,Ray A. Gardner - Taxi,3.0
+1875,Raytheon Aircraft,3.0
+1876,Reali Taxi Aereo,2.0
+1877,Red Aircraft Service - Air Taxi,4.0
+1878,Red Bank Air Taxi,9.0
+1879,Red Carpet Flying Service - Air Taxi,4.0
+1880,Reed Aviation - Air Taxi,5.0
+1881,Reeder Flying Service,5.0
+1882,Reeve Aleutian Airlines,16.0
+1883,Regency Express Air,2.0
+1884,Regina Cargo Airlines,22.0
+1885,Regional Airlines,28.0
+1886,Regional Compagnie Aerienne Europeenne,0.0
+1887,Regionnair,1.0
+1888,Renan Airways,5.0
+1889,RepubliAirlines,1.0
+1890,Resort Air Service - Air Taxi,2.0
+1891,Resort Airlines,25.0
+1892,Revilla Flying Service - Air Taxi,5.0
+1893,Reynolds Airways,7.0
+1894,Rhoadgs Aviation - Air Taxi,2.0
+1895,Richland Aviation  - Taxi,6.0
+1896,Richland Flying Service - Air Taxii,3.0
+1897,Richmor Aviation,2.0
+1898,Rico Linhas Aereas,33.0
+1899,Rico Taxi Aero,8.0
+1900,Rico Taxi Aéreo,23.0
+1901,Riddle Airlines,4.0
+1902,Rijnmond Air Services,10.0
+1903,Rimouski Airlines,26.0
+1904,Rinaldo Piaggio,6.0
+1905,Riverside Air,5.0
+1906,Roadrunner Airlines,5.0
+1907,Robinson Airlines,16.0
+1908,Rocky Mountain Airways,2.0
+1909,Romanian Banat Air,49.0
+1910,Ross Aviation - Air Taxi,9.0
+1911,Rotor Airs In- Air Taxi,6.0
+1912,Rotorcraft Leasing Co,3.0
+1913,Rousseau Aviaiton,31.0
+1914,Royal Air Lao,60.0
+1915,Royal Air Maroc,105.0
+1916,Royal American - Air Taxi,2.0
+1917,Royal Nepal Airlines,102.0
+1918,Rubner Flying Service,2.0
+1919,Ruiban & Duran Compania Aérea,4.0
+1920,Russ Air Transport Company,10.0
+1921,Rusts Flying Service Inc.,5.0
+1922,Rutaca,10.0
+1923,Rutaca Airlines,24.0
+1924,Rutas Aéreas Nacionales SA,3.0
+1925,Rutas Internacionales Peruanes,7.0
+1926,Rwanda Government,12.0
+1927,Ryan Air Services,26.0
+1928,Ryan Blake Air Charter,14.0
+1929,Ryan International Airlines,2.0
+1930,Réseau Aérien Interinsulaire,15.0
+1931,SA Amazonica,6.0
+1932,SADELCA,14.0
+1933,SAESA,23.0
+1934,SAETA,169.0
+1935,SAM Colombia,178.0
+1936,SAMSA,25.0
+1937,SAN Ecuador,8.0
+1938,SANSA,36.0
+1939,SATA,71.0
+1940,SATCO,7.0
+1941,SATENA,201.0
+1942,SAVCO,13.0
+1943,SAVIARE S.A. - Air Taxi,6.0
+1944,SCADTA,5.0
+1945,SELVA,19.0
+1946,SELVA Colombia,3.0
+1947,SEMAF,12.0
+1948,SFC Vietnam - Charter - Full Account,16.0
+1949,SL Aviation Services,2.0
+1950,STAAP,9.0
+1951,STAP,10.0
+1952,STASA,1.0
+1953,SUDENE,12.0
+1954,SW Air Rangers - Air Taxi,3.0
+1955,Sabah Air,22.0
+1956,Sabang Merauke Raya Air Charter,11.0
+1957,Sabena,401.0
+1958,Sabeni,2.0
+1959,Sadia,21.0
+1960,Safe Air Cargo,4.0
+1961,Safe Air Complany,3.0
+1962,Safeway Airways,4.0
+1963,Saha Airline Services,42.0
+1964,Sahara,4.0
+1965,Sahsa Airlines,21.0
+1966,Saint Lawrence Airways,6.0
+1967,Sakha Airlines,37.0
+1968,Salair,4.0
+1969,Salida Flying Service - Air Taxi,6.0
+1970,Salmon Air - Air Taxi,2.0
+1971,San Juan Air,1.0
+1972,Sankuru Air Service,5.0
+1973,Santa Barbara Airlines,46.0
+1974,Sarit Airlines,4.0
+1975,Sasco Air Lines,24.0
+1976,Saskatchewan Government Northern Air Operations,1.0
+1977,Saturn Airways,6.0
+1978,Saudi Arabian Airlines,349.0
+1979,Saudi Arabian Airlines / Kazastan Airlines,349.0
+1980,Saudi Arabian Royal Flight,18.0
+1981,Savanair,7.0
+1982,Savannair,14.0
+1983,Scandinavian Airlines (SAS),116.0
+1984,Scandinavian Airlines (SAS) / Private,114.0
+1985,Scanex Air,10.0
+1986,SceniAir Lines,10.0
+1987,SceniAir Tours,23.0
+1988,SceniAirline - Air Taxi,2.0
+1989,SceniAirlines,17.0
+1990,Scibe Airlift Cargo Zaire,39.0
+1991,Scottish Airlines,56.0
+1992,Sea Airmotive,3.0
+1993,SeaWind Aviation,6.0
+1994,Seattle Air Charter,14.0
+1995,Seaview Aviation,9.0
+1996,Security Air,7.0
+1997,Selva Taxi Aero,5.0
+1998,Sempati Air,30.0
+1999,Senegalair,6.0
+2000,Servant Air,6.0
+2001,Service Air,10.0
+2002,Servicio Aereo Columbiano / SCADTA,17.0
+2003,Servicio Aereo Manchupo,6.0
+2004,Servicio Aéreo Panini,5.0
+2005,Servicio Expresso Nacional,9.0
+2006,Servicios Aereas Virgen de Copacabana,1.0
+2007,Servicios Aereos Martinez Leon,13.0
+2008,Servicios Aereos Nacionales,24.0
+2009,Servicios Aereos Nacionales Airways,33.0
+2010,Servicios Aereos Santa Ana,10.0
+2011,Servicios Aeronauticos Sucre (SASCA),1.0
+2012,Servicios Americanos,2.0
+2013,Servicios Aéreos Boliviano,4.0
+2014,Servicios Aéreos Cochabamba,4.0
+2015,Servicios Aéreos Especiales,26.0
+2016,Servivensa,8.0
+2017,Seventy Airways - Air Taxi,3.0
+2018,Shanair Inc. - Air Taxi,2.0
+2019,Shangri La Air,18.0
+2020,Shanxi Airlines,42.0
+2021,Shell Co of Ecuador,34.0
+2022,Shelter Cove Sea Park,17.0
+2023,Si Fly - U.N. charter,24.0
+2024,Siamese Airways,16.0
+2025,Sibir (S7),128.0
+2026,Sibir Airlines,124.0
+2027,Sierra PacifiAirlines,36.0
+2028,SilkAir,104.0
+2029,Silver City Airways,35.0
+2030,Simmons Airlines,3.0
+2031,Simpson Air Service - Air Taxi,9.0
+2032,Singapore Airlines,85.0
+2033,Sinquanon Management - Air Taxi,2.0
+2034,Skagway Air Service - Air Taxi,6.0
+2035,Skips Air Service - Air Taxi,3.0
+2036,Sky Cabs,6.0
+2037,Sky Chopper  - Air Taxi,2.0
+2038,Sky Executive Air Services,5.0
+2039,Sky Haven - Air Taxi,2.0
+2040,Sky Train Air,3.0
+2041,Skycraft Air Transport,1.0
+2042,Skydive Salt Lake - Charter,9.0
+2043,Skyline Airways,14.0
+2044,Skyline Aviation - Air Taxi,4.0
+2045,Skyline Sweden,22.0
+2046,Skyline Transportation Company,1.0
+2047,Skylink Airlines,7.0
+2048,Skypower Express Airways,6.0
+2049,Skystream Airlines,2.0
+2050,Skyvan Airways,1.0
+2051,Skyward Aviation,2.0
+2052,Skyway Air  - Taxi,2.0
+2053,Skyways,3.0
+2054,Skyways of London,11.0
+2055,Skywest Airlines / Private.,10.0
+2056,Skyworld Airlines (Ports of Call Inc.),1.0
+2057,Slick Airways,16.0
+2058,Slick Airways - Cargo,3.0
+2059,Smithers Air Service,3.0
+2060,Smyer Aircraft - Air Taxi,2.0
+2061,Snow Valley Ski Lines,1.0
+2062,Sobelair SA (Belgium),141.0
+2063,Soc. de Tr. Aériens d'Extrême Orient,4.0
+2064,Sociedad Aeronautica Medellin,48.0
+2065,Sociedade de Aviacao Ligeira Charter,16.0
+2066,Societa Aerea Mediterranea,5.0
+2067,Societe Aerienne du Littoral,41.0
+2068,Societe Alpes Provence,39.0
+2069,Societe France Hydro,16.0
+2070,Societe Indochinoise de Raviteillement,16.0
+2071,Societe Indochinoise de Transport Aeriens,4.0
+2072,Societe Transatlantique Aerienne,14.0
+2073,Società Aerea Teseo,7.0
+2074,Société Auxiliare de Navigation Aérienne,2.0
+2075,Société Aérienne de Tr. Tropicaux,17.0
+2076,Société de Transports Aériens,4.0
+2077,Socotra,1.0
+2078,Soldotna Air Services,7.0
+2079,Solomon Islands Airlines,26.0
+2080,Somali Airlines,85.0
+2081,SoniBlue Airways,3.0
+2082,Sosoliso Airlines,108.0
+2083,Soundsair,5.0
+2084,South African Airways,336.0
+2085,South Central Airlines,10.0
+2086,South PacifiIsland Airways,11.0
+2087,Southcentral Air,7.0
+2088,Southeast Airlines,10.0
+2089,Southeast Sky - Air Taxi,4.0
+2090,Southeast Skyways - Air Taxi,3.0
+2091,Southern Air Transport,3.0
+2092,Southern Airways,137.0
+2093,Southern Cross Airways,5.0
+2094,Southern Express,1.0
+2095,Southern Jersey Air - Air Taxi,3.0
+2096,Southern Sudan Air Connection,24.0
+2097,Southwest Air,16.0
+2098,Southwest Airlift,2.0
+2099,Southwest Airlines,0.0
+2100,Southwest Airways,22.0
+2101,Southwest Aviation - Air Taxi,4.0
+2102,Southwest Medivac,5.0
+2103,Sowind Air,4.0
+2104,Spair Air Transport,12.0
+2105,Spanair,154.0
+2106,Spanish Air Force,11.0
+2107,Spantax,247.0
+2108,Spartan Air Services,2.0
+2109,Speed Service Couriers,1.0
+2110,Spencer Airways / Ceskoslovenske Aerolinie,12.0
+2111,Spernak Airway - Air Taxi,4.0
+2112,Spernak Airways - Air Taxi,4.0
+2113,Staer Air,27.0
+2114,Standard Airlines,35.0
+2115,Star Aviation,9.0
+2116,Starair,2.0
+2117,Starways,1.0
+2118,State Airlines,6.0
+2119,Stavropol Airlines,50.0
+2120,Sterling Airways,137.0
+2121,Stikine Air Service - Air Taxi,2.0
+2122,Strait Air,1.0
+2123,Straits Air Freight Express,4.0
+2124,Straley Flying Service - Air Taxi,2.0
+2125,Strato Freight,53.0
+2126,Stratofreight,3.0
+2127,Streamline,1.0
+2128,Suburban Airlines - Air Taxi,4.0
+2129,Sudan Airways,223.0
+2130,Sudania Air Cargo,10.0
+2131,Summit Air Charters,3.0
+2132,Sun Valley Airways - Air Taxi,4.0
+2133,Sun West Airline - Air Taxi,4.0
+2134,SunQuest Executive Air Charter,2.0
+2135,Sunbeam Air Transport Co.,5.0
+2136,Sundance Helicopters,7.0
+2137,Sunflower Airlines,11.0
+2138,Superior Airways,3.0
+2139,Superior Aviation,1.0
+2140,Surinam Airways,176.0
+2141,Survair,4.0
+2142,Svedijos Prekés,3.0
+2143,Svenska Aero,10.0
+2144,Swedish Air Force,8.0
+2145,Swifair,2.0
+2146,Swift Aire Lines Inc.,3.0
+2147,Swissair,411.0
+2148,Syktyvkar Avia,15.0
+2149,Syndicato Condor,36.0
+2150,Syrian Airways,28.0
+2151,Syrian Arab Airlines,1.0
+2152,T & G Aviation,5.0
+2153,T.A. Intercontinentaux,46.0
+2154,T.A. Intercontinentaux (France),53.0
+2155,TAA,3.0
+2156,TAAG Angola Airlines,157.0
+2157,TABA,86.0
+2158,TABSO,18.0
+2159,TAC Colombia,19.0
+2160,TACA,95.0
+2161,TACA International Airlines,3.0
+2162,TACSA,9.0
+2163,TACV-Cabo Verde Airlines,18.0
+2164,TAESA,30.0
+2165,TAG Airlines,9.0
+2166,TAM (Bolivia),156.0
+2167,TAM (Brazil),310.0
+2168,TAM (Peru),22.0
+2169,TAM Lineas Aéreas Regional,43.0
+2170,TAM Paraguay,1.0
+2171,TAME,306.0
+2172,TAME Ecuador,7.0
+2173,TAMPA Colombia,3.0
+2174,TAN,130.0
+2175,TAN Honduras,3.0
+2176,TANS Airlines,46.0
+2177,TANS Peru,40.0
+2178,TAO,10.0
+2179,TAP (Air Portugal),131.0
+2180,TAR,4.0
+2181,TARS,13.0
+2182,TASSA,1.0
+2183,TAUSA,12.0
+2184,TMK Air Commuter,22.0
+2185,TPI International Airways,3.0
+2186,Tadair,2.0
+2187,Taiwan Airlines,29.0
+2188,Taiwan Aviation,18.0
+2189,Tajikistan Airlines,207.0
+2190,Talair,56.0
+2191,Talia Airways,15.0
+2192,Tamair,2.0
+2193,Tampa Air Center - Air Taxi,3.0
+2194,TanaMana Aviation,4.0
+2195,Tanana Air Taxi,2.0
+2196,Tanzania Aviation,10.0
+2197,Taos Airways - Air Taxi,3.0
+2198,Taquan Air Service,5.0
+2199,Tar Heel Aviation,2.0
+2200,Tarom,194.0
+2201,Tartarstan Airlines,41.0
+2202,Tashkent Aircraft Production Corporation,5.0
+2203,Tassili Airlines,1.0
+2204,Taxader Airlines,44.0
+2205,Taxair,8.0
+2206,Taxi Aereo El Venado,3.0
+2207,Taxi Aereo de Santander,28.0
+2208,Taxi Aereo el Venado,128.0
+2209,Taxi Aéreo Cesar Aguiar,8.0
+2210,Taxi Aéreo Kovacs,9.0
+2211,Taxi Aéreo del Guaviare,7.0
+2212,Taxi Aéreo el Venado,2.0
+2213,Taxval,1.0
+2214,Team Air,19.0
+2215,Tech - Aeronautical Explotiation,22.0
+2216,Telford Aviation,9.0
+2217,Temesco Helicopter - Air Taxi,3.0
+2218,Temsco Airlines,4.0
+2219,Temsco Helicopter - Air Taxi,3.0
+2220,Tepper Aviation,5.0
+2221,Terry Air Inc.,3.0
+2222,Texas International Airlines,11.0
+2223,Thai Airways,358.0
+2224,Thai International,24.0
+2225,Theif River Aviation - Air Taxi,4.0
+2226,Tierra del Fuego Province,12.0
+2227,Tigres Voladores,44.0
+2228,Tiramavia,1.0
+2229,Titan Airways,2.0
+2230,Toa DomestiAirline (Japan),68.0
+2231,Tomahawk Airways,6.0
+2232,Top Air - Air Taxi,4.0
+2233,Total,8.0
+2234,Total  Air Lines,2.0
+2235,Touraine Air Transport,8.0
+2236,Tracep,17.0
+2237,Trade Wings Aviation Ltd.,3.0
+2238,Trafik-Turist-Transportflyg,20.0
+2239,Trans Air Services,3.0
+2240,Trans Alaska Helicopter - Air Taxi,2.0
+2241,Trans Australia Airlines,39.0
+2242,Trans Canada Air Lines,212.0
+2243,Trans Canada Air Lines / RCAF,36.0
+2244,Trans Caribbean Airways,2.0
+2245,Trans Colorado AL / Continental Express,9.0
+2246,Trans Continental Air Transport,13.0
+2247,Trans Continental and Western Air,142.0
+2248,Trans Guyana Airways,3.0
+2249,Trans International Airlines,11.0
+2250,Trans Isle Air,1.0
+2251,Trans Luxury Airlines,2.0
+2252,Trans Mediterranean Airways,20.0
+2253,Trans National Airlines,3.0
+2254,Trans Service Airlift,144.0
+2255,Trans World Airlines,784.0
+2256,Trans World Airlines / Castleton Inc.,15.0
+2257,Trans World Airlines / Eastern Air Lines,4.0
+2258,Trans World Airlines / Private,28.0
+2259,Trans-Canada Air Lines,5.0
+2260,Trans-Luxury Airlines,21.0
+2261,Transafrik,23.0
+2262,Transafrik - United Nations Charter,9.0
+2263,Transair,32.0
+2264,Transair Georgia Airlines,134.0
+2265,Transamazonica,4.0
+2266,Transamerica Airlines,11.0
+2267,Transamerican Air Transport,10.0
+2268,Transamerican Airlines,1.0
+2269,Transasia Airways,6.0
+2270,Transaven,18.0
+2271,Transaviaexport Airlines,11.0
+2272,Transbrasil,67.0
+2273,Transcontinental,24.0
+2274,Transfair,2.0
+2275,Transmandu,1.0
+2276,Transmeridian Air Cargo,4.0
+2277,Transniugini Airways,2.0
+2278,Transocean Air Lines,106.0
+2279,Transoriente Colombia,7.0
+2280,Transpolar,5.0
+2281,Transport Aerien Intercontinentaux (France),52.0
+2282,Transport Arien Transregional,23.0
+2283,Transport Comp. Algerienne de T.A.,9.0
+2284,Transporte Aereo Federal,20.0
+2285,Transported Areos Profesionales - TAPSA,16.0
+2286,Transportes Aereos Don Carlos - Charter,10.0
+2287,Transportes Aereos Mexicanos,3.0
+2288,Transportes Aereos Nacionales,19.0
+2289,Transportes Aereos Orientales,3.0
+2290,Transportes Aereos Pegaso,14.0
+2291,Transportes Aereos Peruanas,12.0
+2292,Transportes Aereos del Caribe,70.0
+2293,Transportes Areos Nacionales,24.0
+2294,Transportes Aéreos Itenez,6.0
+2295,Transportes Aéreos Mexicanos,4.0
+2296,Transportes Aéreos Salvador,14.0
+2297,Transportes Aéreos de Timor,9.0
+2298,Transportno Aviatsionno Bulgaro-Soviet Obshchestvo,82.0
+2299,Transports Aériens de la Guinee-Bissau,3.0
+2300,Transporturile Aeriene Romane (TAROM),60.0
+2301,Transporturile Aeriene Romano-Sovietice,3.0
+2302,Transworld Safaris,3.0
+2303,Travel Air Flug,2.0
+2304,TriCoastal Air,1.0
+2305,Trigana Air Service,22.0
+2306,Trillium Air,1.0
+2307,TropiAir - Air Taxi,8.0
+2308,Tropical Airways,21.0
+2309,TsAGI,13.0
+2310,Tulakes Aviaiton - Air Taxi,2.0
+2311,Tuninter,16.0
+2312,Tura Air Enterprise,9.0
+2313,Turkish Airlines,9.0
+2314,Turkish Airlines (THY),891.0
+2315,Two Taxi Aero,2.0
+2316,Tyee Airlines - Air Taxi,5.0
+2317,Tyumen Aviatrans,5.0
+2318,U. S. Air Force,19.0
+2319,U.S. Government (leased),2.0
+2320,U.S. Overseas Airways,2.0
+2321,US Aerial Mail Service,40.0
+2322,US Air Express/Air Midwest,21.0
+2323,US Airlines,2.0
+2324,US Airways,0.0
+2325,US Airways Express,2.0
+2326,USA Jet Airlines,1.0
+2327,USAir,198.0
+2328,USAir / Skywest Airlilnes,34.0
+2329,UTAir Airlines,6.0
+2330,Uganda Airlines,33.0
+2331,Ukraine Aviation Transport Company,10.0
+2332,Ukrainian Cargo Airlines -  Congolese Army Charter,129.0
+2333,Ukranian-Mediterranean Airlines,75.0
+2334,Ukvozduchput,1.0
+2335,Uni Air,1.0
+2336,Union Aeromaritime de Transport,17.0
+2337,Union Airways,7.0
+2338,Union Aéromaritime de Transport,3.0
+2339,Union Flights,1.0
+2340,Union des Transportes Aeriens,263.0
+2341,Union des Transports Aeriens de Guinee,140.0
+2342,Union of Burma Airways,47.0
+2343,United Air Lines,1021.0
+2344,United Air Lines / Military - U.S. Air Force,49.0
+2345,United Air Lines / Trans World Airlines,256.0
+2346,United Air Services,3.0
+2347,United Airways,36.0
+2348,United Airways of New Zealand,2.0
+2349,United Arab Airlines,337.0
+2350,United Express,6.0
+2351,United Express  / Private,14.0
+2352,United Nations -  UTair Charter,24.0
+2353,United Nations Mission,10.0
+2354,United Nations Organization,16.0
+2355,Universal Airlines,16.0
+2356,Universal Airways,8.0
+2357,Universal Jet Aviation,5.0
+2358,University of Michigan Health System,6.0
+2359,Uralex,3.0
+2360,Urcupina,7.0
+2361,Uruguayan Air Force - TAMU,29.0
+2362,Utility Helocopter - Air Taxi,5.0
+2363,Uzbek Civil Aviation Administration,34.0
+2364,Uzbekistan Airways,39.0
+2365,Uzu Air,3.0
+2366,VASP,378.0
+2367,VASP / Private,26.0
+2368,VIARCO,9.0
+2369,VOTEC,25.0
+2370,VOTEC / VOTEC,19.0
+2371,Valley Air Service,10.0
+2372,Valley Air Service - Air Taxi,6.0
+2373,ValuJet,110.0
+2374,Vanair,16.0
+2375,Varig,417.0
+2376,Varney Air Lines,11.0
+2377,Varney Airlines,3.0
+2378,Vayudoot,45.0
+2379,Vehu Akat,16.0
+2380,Venezolana,3.0
+2381,Venezolana Internacional de Aviacion,84.0
+2382,Venezuelian Government,7.0
+2383,Vercoa Air Service - Air Taxi,2.0
+2384,Viacao Aerea Gaucha S.A.,12.0
+2385,Viaçao Cometa,2.0
+2386,Vickers,3.0
+2387,Victoria Airlines,4.0
+2388,Vieques Air Link,14.0
+2389,Vietnam Airlines,95.0
+2390,Viking Air Service - Air Taxi,3.0
+2391,Viking Air Transport,27.0
+2392,Viking Airways - Air Taxi,2.0
+2393,Village Airways,4.0
+2394,Village Aviation - Air Taxi,2.0
+2395,Vincent Aviation,5.0
+2396,Virgin Islands Airways,8.0
+2397,Vladivostokavia,145.0
+2398,Vnokovo Airlines,141.0
+2399,Vnukovo Airlines,3.0
+2400,Volare Aviation Enterprise,8.0
+2401,Volga Air,12.0
+2402,Volga-Avia Express,41.0
+2403,Volga-Dnepr Airlines,8.0
+2404,Vologodskiye Airlines,9.0
+2405,Vostok Aviakompania,16.0
+2406,VoteTaxi Aéreo,16.0
+2407,Walker - Watts Aviation - Air Taxi,4.0
+2408,Warsaw Aviation - Taxi,6.0
+2409,Wasa Wings,6.0
+2410,Wasaya Airways,8.0
+2411,Wayumi Air Taxi,4.0
+2412,Weasua Airtransport,2.0
+2413,Webber Air - Air Taxi,12.0
+2414,Webber Airlines -Air Taxi,5.0
+2415,Webstas Aviation Services Inc.,3.0
+2416,Wedell-Williams Air Service Corporation,2.0
+2417,Wehite Cap Aviation,6.0
+2418,Wein Alaska Airlines Inc.,2.0
+2419,Wenela Air Services,78.0
+2420,West African Airways,13.0
+2421,West Air,1.0
+2422,West Australian Airways,3.0
+2423,West Aviation,3.0
+2424,West Caribbean Airways,168.0
+2425,West Coast Air,2.0
+2426,West Coast Airlines,25.0
+2427,Westair Transport,28.0
+2428,Western Air Express,15.0
+2429,Western Airlines,135.0
+2430,Western Canada Airways,5.0
+2431,Western Helicopter,0.0
+2432,Western Straits Air,8.0
+2433,Westwing,5.0
+2434,Wheeler Airlines,5.0
+2435,Whyalla Airlines,8.0
+2436,Wicks Flying Service - Air Taxi,4.0
+2437,Wideroe's Flyveselksap,63.0
+2438,Wien Air Alaska,10.0
+2439,Wien Alaska Airlines,5.0
+2440,Wien Consolidated Airlines,40.0
+2441,Wiggins Airways,4.0
+2442,Wigmo,45.0
+2443,Willow Air Service - Air Taxi,3.0
+2444,Wilson Airways,3.0
+2445,Wimbi Dira Airways,2.0
+2446,Win Win Aviation,1.0
+2447,Winchester Air,5.0
+2448,Winged Cargo Inc.,7.0
+2449,Wings West Airlines / Private,17.0
+2450,Winship Air,6.0
+2451,Winship Air Service,6.0
+2452,Winship Air Service - Air Taxi,2.0
+2453,World Airways,88.0
+2454,Wrangell Air Service,1.0
+2455,Wright Air Service - Air Taxi,3.0
+2456,Wuhan Airlines,58.0
+2457,Wyman Pilot Service - Air Taxi,2.0
+2458,Wyoming Air Service,1.0
+2459,XL Airways leased from Air New Zealand,7.0
+2460,YPF,7.0
+2461,YPFB Transportes Aereos,14.0
+2462,Yacimientos Petroliferos Fiscales,34.0
+2463,Yakutavia,17.0
+2464,Yates Aviation,1.0
+2465,Yemen Airlines,13.0
+2466,Yeti Airlines,30.0
+2467,Yug Avia,4.0
+2468,Yute Air Alaska - Air Taxi,5.0
+2469,Zakavia,5.0
+2470,Zanex,1.0
+2471,Zantop Air Transport,13.0
+2472,Zantop Airways,2.0
+2473,Zantop International Airlines,4.0
+2474,Zen Nippon,2.0
+2475,de Havilland Aircraft,11.0
