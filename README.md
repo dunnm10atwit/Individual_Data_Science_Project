@@ -58,6 +58,8 @@ In the future, it would be intersting to look at if there is a model of plane wi
 
 # Summary
 
+Flying is very safe, and looking at these numbers reinforces this conclusion.
+
 # References
 
 [1] https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908
