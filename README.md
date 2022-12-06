@@ -23,6 +23,31 @@ Of these, Pandas was used the most extensively, primarily for its data frames an
 
 # Results
 
+From the data, I derived that there is a 0.000025% chance of death on a flight. This was found by finding the number of fatalities per day and dividing it by the total number of passengers by per day [2].
+
+Next, I looked at the Average Fatalities by Year:
+
+![Average Fatalites vs Year](Outputted_Data/FatalitiesByYear.png)
+
+As you can see, there was a large increase arond the beginning of the 1940s. My inference would be that as flights were becming more pupular, there would be an increase in fatalities simply as there were more people in the sky. What is interesting is that the graph shows the number of fatalities holding steady or even dipping slightly around 2000. This just goes to show how much work is being put into assuring that these flights are as safe as possible.
+
+Finally, I looked at which of the big American airlines had the most fatalities: 
+
+![Average Fatalites vs Year](Outputted_Data/Airline_Pie_Chart.png)
+
+The numbers of the results are as follows:
+   
+ - Alaska Airlines    : 337
+ - American Airlines  : 1614
+ - Delta Airlines     : 327
+ - Frontier Airlines  : 18
+ - Hawaiian Airlines  : 7
+ - Southwest Airlines : 529
+ - Spirit Airlines    : 17
+ - United Airlines    : 1326
+
+As you can see, the best airline to fly from a fatalities perspective is hawaiian Airlines, followed by Spirit and Frontier. This may be the case as they might not have been around as some of the other airlines and/or might not have the same volume of flights (more flights -> more fatalities).
+
 # Discussion
 
 # Summary
