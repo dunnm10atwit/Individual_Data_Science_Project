@@ -50,6 +50,12 @@ As you can see, the best airline to fly from a fatalities perspective is hawaiia
 
 # Discussion
 
+According to [pbs](https://www.pbs.org/wgbh/nova/planecrash/risky.html)[3], there is a 0.000048% chance of death from flying. Comparing that to my 0.000025% chance, we have similar answers in the sense that we have the same order of magnitude.
+
+This is an amazingly small number, and really highlights just how safe air travel is.
+
+In the future, it would be intersting to look at if there is a model of plane with an abnormally large fatality rate, how seasons affect the fatalities, and if there are 'hotspot' locations for crashes.
+
 # Summary
 
 # References
@@ -57,3 +63,6 @@ As you can see, the best airline to fly from a fatalities perspective is hawaiia
 [1] https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908
 
 [2] https://www.statista.com/statistics/564717/airline-industry-passenger-traffic-globally/
+
+[3] https://www.pbs.org/wgbh/nova/planecrash/risky.html
+
