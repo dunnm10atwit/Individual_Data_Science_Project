@@ -2,7 +2,7 @@
 
 # Introduction
 
-The purpose of this project is primarily to practice my skills working with data with the tools python has to offer (such as Pandas, NumPy, and Matplotlib). The secondary objective is to understand just how safe traveling by air is. I've always heard that flying is very safe, but I was curious just how safe it is. This would include the chance of death from a flight, comparing airlines by total number of fatalities, comparing fatalities vs year, and other metrics.
+The purpose of this project is primarily to practice my skills working with data and the tools python has to offer (such as Pandas, NumPy, and Matplotlib). The secondary objective is to understand just how safe traveling by air is. I've always heard that flying is very safe, but I was curious just how safe it is. This would include the chance of death from a flight, comparing airlines by total number of fatalities, and comparing fatalities vs year.
 
 # Selection of Data
 
@@ -23,13 +23,13 @@ Of these, Pandas was used the most extensively, primarily for its data frames an
 
 # Results
 
-From the data, I derived that there is a 0.000025% chance of death on a flight. This was found by finding the number of fatalities per day and dividing it by the total number of passengers by per day [2].
+From the data, I derived that there is a 0.000025% chance of death on a flight. This was found by finding the number of fatalities per day and dividing it by the total number of passengers per day [2].
 
 Next, I looked at the Average Fatalities by Year:
 
 ![Average Fatalites vs Year](Outputted_Data/FatalitiesByYear.png)
 
-As you can see, there was a large increase arond the beginning of the 1940s. My inference would be that as flights were becming more pupular, there would be an increase in fatalities simply as there were more people in the sky. What is interesting is that the graph shows the number of fatalities holding steady or even dipping slightly around 2000. This just goes to show how much work is being put into assuring that these flights are as safe as possible.
+As you can see, there was a large increase arond the beginning of the 1940s. My inference would be that as flights were becming more pupular, there would be an increase in fatalities simply as there were more people in the sky. What is interesting is that the graph shows the number of fatalities holding steady or even dipping slightly around 2000. This just goes to show how much work has been and continues to be put into assuring that these flights are as safe as possible.
 
 Finally, I looked at which of the big American airlines had the most fatalities: 
 
@@ -46,7 +46,7 @@ The numbers of the results are as follows:
  - Spirit Airlines    : 17
  - United Airlines    : 1326
 
-As you can see, the best airline to fly from a fatalities perspective is hawaiian Airlines, followed by Spirit and Frontier. This may be the case as they might not have been around as some of the other airlines and/or might not have the same volume of flights (more flights -> more fatalities).
+As you can see, the best airline to fly from a fatalities perspective is hawaiian Airlines, followed by Spirit and Frontier. This may be the case as they might not have been around as long as some of the other airlines and/or might not have the same volume of flights (more flights -> more fatalities).
 
 # Discussion
 
