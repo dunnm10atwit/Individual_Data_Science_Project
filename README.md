@@ -14,6 +14,13 @@ For my project I primarily focused on the columns date, operator, number of peop
 
 # Methods
 
+The following libraries were utilized:
+ - NumPy
+ - Pandas
+ - Matplotlib
+
+Of these, Pandas was used the most extensively, primarily for its data frames and data manipulation. Matplotlib was used for any visualizations created, and Numpy was used for its NaN value.
+
 # Results
 
 # Discussion
